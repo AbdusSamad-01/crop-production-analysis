@@ -1,0 +1,50 @@
+// =====================================================================
+// DAX measures for the Agricultural Crop Production dashboard
+// Table name assumed: crop_production
+// (Power BI names the table after the CSV file; if yours differs,
+//  rename it in Model view or replace 'crop_production' below.)
+// =====================================================================
+
+// ---- Core KPIs ------------------------------------------------------
+Total Production = SUM ( crop_production[Production_Tonnes] )
+
+Total Area = SUM ( crop_production[Area_Hectares] )
+
+// Weighted yield = total production / total area.
+// DIVIDE avoids a divide-by-zero error when a filter leaves no rows.
+Weighted Yield = DIVIDE ( [Total Production], [Total Area] )
+
+Records = COUNTROWS ( crop_production )
+
+// ---- Display-friendly versions (millions) ---------------------------
+Total Production (M tonnes) = DIVIDE ( [Total Production], 1000000 )
+
+Total Area (M ha) = DIVIDE ( [Total Area], 1000000 )
+
+// ---- Share of total -------------------------------------------------
+// How big is the current selection compared with ALL crops?
+Production Share % =
+DIVIDE (
+    [Total Production],
+    CALCULATE ( [Total Production], ALL ( crop_production[Crop] ) )
+)
+
+// ---- Year-over-year change -----------------------------------------
+Production Previous Year =
+CALCULATE (
+    [Total Production],
+    FILTER (
+        ALL ( crop_production[Year] ),
+        crop_production[Year] = MAX ( crop_production[Year] ) - 1
+    )
+)
+
+Production YoY % =
+DIVIDE ( [Total Production] - [Production Previous Year], [Production Previous Year] )
+
+// ---- Input variables (averages across the selected rows) -----------
+Avg Rainfall (mm) = AVERAGE ( crop_production[Rainfall_mm] )
+
+Avg Fertilizer (kg/ha) = AVERAGE ( crop_production[Fertilizer_kg_per_ha] )
+
+Avg Irrigation Coverage (%) = AVERAGE ( crop_production[Irrigation_Coverage_Percent] )

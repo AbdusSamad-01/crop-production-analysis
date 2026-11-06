@@ -1,0 +1,1001 @@
+Year,State,Crop,Season,Area_Hectares,Production_Tonnes,Yield_Tonnes_per_Hectare,Rainfall_mm,Fertilizer_kg_per_ha,Irrigation_Coverage_Percent,Soil_Type
+2015,Uttar Pradesh,Sugarcane,Annual,105683.0,8390559.0,79.39,818.0,211.9,76.4,Alluvial
+2016,Uttar Pradesh,Sugarcane,Annual,72133.0,5769889.0,79.99,1085.0,234.7,58.3,Alluvial
+2017,Uttar Pradesh,Sugarcane,Annual,123038.0,10772730.0,87.56,1095.0,204.7,91.0,Alluvial
+2018,Uttar Pradesh,Sugarcane,Annual,140815.0,10602938.0,75.3,586.0,197.7,46.6,Alluvial
+2019,Uttar Pradesh,Sugarcane,Annual,59167.0,4760754.0,80.46,932.0,188.2,76.2,Alluvial
+2020,Uttar Pradesh,Sugarcane,Annual,67167.0,5594303.0,83.29,1079.0,193.8,76.1,Alluvial
+2021,Uttar Pradesh,Sugarcane,Annual,142483.0,8846705.0,62.09,909.0,229.7,65.6,Alluvial
+2022,Uttar Pradesh,Sugarcane,Annual,92203.0,7368485.0,79.92,1261.0,261.9,68.6,Alluvial
+2023,Uttar Pradesh,Sugarcane,Annual,122446.0,9220255.0,75.3,1121.0,211.2,65.0,Alluvial
+2024,Uttar Pradesh,Sugarcane,Annual,68796.0,6191974.0,90.0,861.0,258.4,77.2,Alluvial
+2015,Uttar Pradesh,Potato,Rabi,136381.0,3160476.0,23.17,1243.0,179.3,66.8,Alluvial
+2016,Uttar Pradesh,Potato,Rabi,133064.0,3155658.0,23.72,785.0,209.7,74.8,Alluvial
+2017,Uttar Pradesh,Potato,Rabi,120029.0,2781257.0,23.17,1109.0,197.6,61.3,Alluvial
+2018,Uttar Pradesh,Potato,Rabi,135009.0,3554966.0,26.33,1611.0,176.9,91.5,Alluvial
+2019,Uttar Pradesh,Potato,Rabi,117843.0,3117966.0,26.46,1103.0,162.6,73.0,Alluvial
+2020,Uttar Pradesh,Potato,Rabi,79394.0,2025519.0,25.51,1364.0,202.8,85.4,Alluvial
+2021,Uttar Pradesh,Potato,Rabi,125337.0,3014788.0,24.05,985.0,168.2,73.2,Alluvial
+2022,Uttar Pradesh,Potato,Rabi,62325.0,1926358.0,30.91,981.0,199.8,44.9,Alluvial
+2023,Uttar Pradesh,Potato,Rabi,151239.0,3823589.0,25.28,602.0,157.9,69.1,Alluvial
+2024,Uttar Pradesh,Potato,Rabi,82045.0,2497776.0,30.44,1702.0,211.2,90.8,Alluvial
+2015,Uttar Pradesh,Wheat,Rabi,91687.0,358573.0,3.91,962.0,156.3,66.1,Alluvial
+2016,Uttar Pradesh,Wheat,Rabi,82642.0,318069.0,3.85,898.0,118.3,37.2,Alluvial
+2017,Uttar Pradesh,Wheat,Rabi,149553.0,614337.0,4.11,931.0,142.9,65.2,Alluvial
+2018,Uttar Pradesh,Wheat,Rabi,90432.0,377852.0,4.18,1045.0,167.6,87.1,Alluvial
+2019,Uttar Pradesh,Wheat,Rabi,81053.0,372083.0,4.59,1124.0,166.7,87.4,Alluvial
+2020,Uttar Pradesh,Wheat,Rabi,84652.0,368213.0,4.35,1154.0,114.9,74.4,Alluvial
+2021,Uttar Pradesh,Wheat,Rabi,148481.0,494370.0,3.33,1175.0,158.6,50.7,Alluvial
+2022,Uttar Pradesh,Wheat,Rabi,100754.0,447473.0,4.44,1210.0,153.9,60.1,Alluvial
+2023,Uttar Pradesh,Wheat,Rabi,156950.0,519134.0,3.31,940.0,120.1,66.4,Alluvial
+2024,Uttar Pradesh,Wheat,Rabi,103520.0,450479.0,4.35,910.0,141.9,47.2,Alluvial
+2015,Uttar Pradesh,Rice,Kharif,195787.0,702291.0,3.59,1001.0,116.9,60.8,Alluvial
+2016,Uttar Pradesh,Rice,Kharif,101261.0,336596.0,3.32,932.0,135.5,63.2,Alluvial
+2017,Uttar Pradesh,Rice,Kharif,107809.0,355801.0,3.3,476.0,135.5,60.3,Alluvial
+2018,Uttar Pradesh,Rice,Kharif,96545.0,302170.0,3.13,1345.0,114.9,88.2,Alluvial
+2019,Uttar Pradesh,Rice,Kharif,144892.0,496048.0,3.42,1009.0,120.2,65.1,Alluvial
+2020,Uttar Pradesh,Rice,Kharif,133984.0,559619.0,4.18,420.0,106.5,55.2,Alluvial
+2021,Uttar Pradesh,Rice,Kharif,116588.0,396894.0,3.4,1173.0,100.1,58.1,Alluvial
+2022,Uttar Pradesh,Rice,Kharif,79094.0,303748.0,3.84,1258.0,115.1,82.3,Alluvial
+2023,Uttar Pradesh,Rice,Kharif,99411.0,349066.0,3.51,860.0,117.5,67.0,Alluvial
+2024,Uttar Pradesh,Rice,Kharif,137974.0,468955.0,3.4,1368.0,137.9,39.5,Alluvial
+2015,Uttar Pradesh,Maize,Kharif,132992.0,414999.0,3.12,909.0,119.0,37.9,Alluvial
+2016,Uttar Pradesh,Maize,Kharif,125836.0,402302.0,3.2,785.0,147.1,97.4,Alluvial
+2017,Uttar Pradesh,Maize,Kharif,89194.0,305466.0,3.42,909.0,135.3,30.7,Alluvial
+2018,Uttar Pradesh,Maize,Kharif,104774.0,371749.0,3.55,751.0,143.4,36.2,Alluvial
+2019,Uttar Pradesh,Maize,Kharif,116901.0,383880.0,3.28,1037.0,118.1,72.5,Alluvial
+2020,Uttar Pradesh,Maize,Kharif,124666.0,382840.0,3.07,1214.0,139.2,76.4,Alluvial
+2021,Uttar Pradesh,Maize,Kharif,133429.0,479494.0,3.59,656.0,150.5,71.6,Alluvial
+2022,Uttar Pradesh,Maize,Kharif,97006.0,375693.0,3.87,965.0,128.4,83.1,Alluvial
+2023,Uttar Pradesh,Maize,Kharif,141187.0,492614.0,3.49,1188.0,115.2,100.0,Alluvial
+2024,Uttar Pradesh,Maize,Kharif,113974.0,353912.0,3.11,768.0,115.1,46.0,Alluvial
+2015,Uttar Pradesh,Groundnut,Kharif,113713.0,193954.0,1.71,878.0,34.8,63.2,Alluvial
+2016,Uttar Pradesh,Groundnut,Kharif,119659.0,221235.0,1.85,831.0,37.8,49.2,Alluvial
+2017,Uttar Pradesh,Groundnut,Kharif,49081.0,129015.0,2.63,1074.0,41.8,56.2,Alluvial
+2018,Uttar Pradesh,Groundnut,Kharif,86307.0,168722.0,1.95,822.0,33.6,40.2,Alluvial
+2019,Uttar Pradesh,Groundnut,Kharif,107170.0,172397.0,1.61,438.0,34.0,88.8,Alluvial
+2020,Uttar Pradesh,Groundnut,Kharif,79727.0,158528.0,1.99,1323.0,40.4,79.1,Alluvial
+2021,Uttar Pradesh,Groundnut,Kharif,101474.0,182061.0,1.79,1131.0,37.2,54.6,Alluvial
+2022,Uttar Pradesh,Groundnut,Kharif,137822.0,294642.0,2.14,1142.0,34.7,44.8,Alluvial
+2023,Uttar Pradesh,Groundnut,Kharif,95711.0,165983.0,1.73,1022.0,38.4,50.7,Alluvial
+2024,Uttar Pradesh,Groundnut,Kharif,123841.0,248351.0,2.01,1143.0,35.1,92.9,Alluvial
+2015,Uttar Pradesh,Mustard,Rabi,54002.0,100663.0,1.86,750.0,66.0,55.4,Alluvial
+2016,Uttar Pradesh,Mustard,Rabi,85647.0,155264.0,1.81,1017.0,81.9,32.5,Alluvial
+2017,Uttar Pradesh,Mustard,Rabi,125553.0,196695.0,1.57,610.0,68.6,92.3,Alluvial
+2018,Uttar Pradesh,Mustard,Rabi,142864.0,207633.0,1.45,1075.0,71.5,53.7,Alluvial
+2019,Uttar Pradesh,Mustard,Rabi,131313.0,230449.0,1.75,990.0,58.6,56.3,Alluvial
+2020,Uttar Pradesh,Mustard,Rabi,126713.0,228458.0,1.8,1024.0,62.0,57.0,Alluvial
+2021,Uttar Pradesh,Mustard,Rabi,105052.0,167004.0,1.59,971.0,79.2,76.9,Alluvial
+2022,Uttar Pradesh,Mustard,Rabi,88835.0,153596.0,1.73,1148.0,57.5,91.1,Alluvial
+2023,Uttar Pradesh,Mustard,Rabi,170761.0,261068.0,1.53,1093.0,72.2,65.4,Alluvial
+2024,Uttar Pradesh,Mustard,Rabi,110518.0,164469.0,1.49,1405.0,71.8,61.1,Alluvial
+2015,Uttar Pradesh,Cotton,Kharif,75623.0,104671.0,1.38,457.0,109.8,79.3,Alluvial
+2016,Uttar Pradesh,Cotton,Kharif,93076.0,112449.0,1.21,1063.0,102.6,64.6,Alluvial
+2017,Uttar Pradesh,Cotton,Kharif,85767.0,130828.0,1.53,1206.0,99.9,57.1,Alluvial
+2018,Uttar Pradesh,Cotton,Kharif,162629.0,186038.0,1.14,468.0,111.6,80.2,Alluvial
+2019,Uttar Pradesh,Cotton,Kharif,180104.0,178803.0,0.99,835.0,96.3,47.6,Alluvial
+2020,Uttar Pradesh,Cotton,Kharif,168872.0,203851.0,1.21,479.0,123.7,78.6,Alluvial
+2021,Uttar Pradesh,Cotton,Kharif,128981.0,150108.0,1.16,380.0,114.7,87.2,Alluvial
+2022,Uttar Pradesh,Cotton,Kharif,198149.0,170287.0,0.86,913.0,93.2,79.5,Alluvial
+2023,Uttar Pradesh,Cotton,Kharif,202583.0,224070.0,1.11,1101.0,101.4,98.1,Alluvial
+2024,Uttar Pradesh,Cotton,Kharif,124802.0,146087.0,1.17,1094.0,108.4,86.4,Alluvial
+2015,Uttar Pradesh,Soybean,Kharif,117321.0,171256.0,1.46,860.0,47.5,36.9,Alluvial
+2016,Uttar Pradesh,Soybean,Kharif,76673.0,126028.0,1.64,1242.0,50.4,36.4,Alluvial
+2017,Uttar Pradesh,Soybean,Kharif,95464.0,150415.0,1.58,1186.0,46.9,45.7,Alluvial
+2018,Uttar Pradesh,Soybean,Kharif,78271.0,139056.0,1.78,1068.0,56.2,98.5,Alluvial
+2019,Uttar Pradesh,Soybean,Kharif,68832.0,116443.0,1.69,1164.0,57.4,61.2,Alluvial
+2020,Uttar Pradesh,Soybean,Kharif,128402.0,186593.0,1.45,1107.0,40.7,55.5,Alluvial
+2021,Uttar Pradesh,Soybean,Kharif,102073.0,144215.0,1.41,1577.0,40.8,51.8,Alluvial
+2022,Uttar Pradesh,Soybean,Kharif,88841.0,158581.0,1.78,973.0,40.9,75.1,Alluvial
+2023,Uttar Pradesh,Soybean,Kharif,152417.0,208742.0,1.37,1088.0,56.7,73.4,Alluvial
+2024,Uttar Pradesh,Soybean,Kharif,116652.0,178317.0,1.53,873.0,51.3,60.4,Alluvial
+2015,Uttar Pradesh,Pulses,Rabi,97213.0,111430.0,1.15,1229.0,35.6,80.5,Alluvial
+2016,Uttar Pradesh,Pulses,Rabi,79593.0,91212.0,1.15,1094.0,35.6,88.9,Alluvial
+2017,Uttar Pradesh,Pulses,Rabi,64824.0,90286.0,1.39,1240.0,34.0,79.9,Alluvial
+2018,Uttar Pradesh,Pulses,Rabi,73901.0,93050.0,1.26,599.0,25.5,71.6,Alluvial
+2019,Uttar Pradesh,Pulses,Rabi,47897.0,61412.0,1.28,1044.0,34.8,91.5,Alluvial
+2020,Uttar Pradesh,Pulses,Rabi,45943.0,63839.0,1.39,283.0,29.5,62.0,Alluvial
+2021,Uttar Pradesh,Pulses,Rabi,70203.0,68236.0,0.97,1024.0,25.1,45.4,Alluvial
+2022,Uttar Pradesh,Pulses,Rabi,57329.0,71593.0,1.25,771.0,35.2,91.6,Alluvial
+2023,Uttar Pradesh,Pulses,Rabi,110802.0,124520.0,1.12,1116.0,26.5,98.5,Alluvial
+2024,Uttar Pradesh,Pulses,Rabi,56343.0,72647.0,1.29,954.0,35.2,39.6,Alluvial
+2015,Punjab,Sugarcane,Annual,67370.0,6208282.0,92.15,597.0,189.5,56.2,Alluvial
+2016,Punjab,Sugarcane,Annual,141735.0,10570398.0,74.58,763.0,256.3,76.7,Alluvial
+2017,Punjab,Sugarcane,Annual,87876.0,7019165.0,79.88,733.0,246.5,100.0,Alluvial
+2018,Punjab,Sugarcane,Annual,136761.0,9059894.0,66.25,855.0,206.6,49.7,Alluvial
+2019,Punjab,Sugarcane,Annual,56148.0,5866582.0,104.48,812.0,259.2,65.5,Alluvial
+2020,Punjab,Sugarcane,Annual,90623.0,7059769.0,77.9,616.0,192.1,90.2,Alluvial
+2021,Punjab,Sugarcane,Annual,71150.0,5814340.0,81.72,502.0,214.3,81.6,Alluvial
+2022,Punjab,Sugarcane,Annual,76837.0,6646005.0,86.49,771.0,258.4,48.3,Alluvial
+2023,Punjab,Sugarcane,Annual,150292.0,10828444.0,72.05,384.0,221.7,63.5,Alluvial
+2024,Punjab,Sugarcane,Annual,57033.0,4325864.0,75.85,200.0,218.8,85.2,Alluvial
+2015,Punjab,Potato,Rabi,104667.0,2511478.0,23.99,709.0,186.7,90.9,Alluvial
+2016,Punjab,Potato,Rabi,95417.0,2437130.0,25.54,697.0,214.7,92.3,Alluvial
+2017,Punjab,Potato,Rabi,82718.0,2071949.0,25.05,554.0,148.3,74.2,Alluvial
+2018,Punjab,Potato,Rabi,58136.0,1491820.0,25.66,586.0,174.8,62.9,Alluvial
+2019,Punjab,Potato,Rabi,73436.0,2514836.0,34.25,665.0,169.0,71.4,Alluvial
+2020,Punjab,Potato,Rabi,69617.0,2030754.0,29.17,532.0,170.7,73.3,Alluvial
+2021,Punjab,Potato,Rabi,89826.0,2628329.0,29.26,657.0,197.0,40.5,Alluvial
+2022,Punjab,Potato,Rabi,107222.0,2347833.0,21.9,363.0,153.4,85.3,Alluvial
+2023,Punjab,Potato,Rabi,166267.0,4313842.0,25.95,283.0,208.4,62.1,Alluvial
+2024,Punjab,Potato,Rabi,64126.0,2143013.0,33.42,413.0,155.1,95.7,Alluvial
+2015,Punjab,Wheat,Rabi,63160.0,253201.0,4.01,742.0,161.4,70.9,Alluvial
+2016,Punjab,Wheat,Rabi,89671.0,373893.0,4.17,518.0,132.0,40.3,Alluvial
+2017,Punjab,Wheat,Rabi,104534.0,412989.0,3.95,679.0,129.3,64.6,Alluvial
+2018,Punjab,Wheat,Rabi,153309.0,540372.0,3.52,476.0,115.9,45.1,Alluvial
+2019,Punjab,Wheat,Rabi,125029.0,493632.0,3.95,463.0,157.6,43.7,Alluvial
+2020,Punjab,Wheat,Rabi,116565.0,413643.0,3.55,549.0,132.2,70.9,Alluvial
+2021,Punjab,Wheat,Rabi,160313.0,593610.0,3.7,731.0,125.5,64.2,Alluvial
+2022,Punjab,Wheat,Rabi,52815.0,254932.0,4.83,672.0,119.3,74.9,Alluvial
+2023,Punjab,Wheat,Rabi,81294.0,343799.0,4.23,325.0,125.2,68.8,Alluvial
+2024,Punjab,Wheat,Rabi,78102.0,272254.0,3.49,863.0,148.0,30.2,Alluvial
+2015,Punjab,Rice,Kharif,102251.0,298435.0,2.92,203.0,138.7,61.6,Alluvial
+2016,Punjab,Rice,Kharif,70746.0,228479.0,3.23,825.0,99.9,61.9,Alluvial
+2017,Punjab,Rice,Kharif,173315.0,455880.0,2.63,750.0,115.6,70.6,Alluvial
+2018,Punjab,Rice,Kharif,85716.0,327700.0,3.82,461.0,101.2,47.7,Alluvial
+2019,Punjab,Rice,Kharif,64786.0,240875.0,3.72,376.0,143.8,92.3,Alluvial
+2020,Punjab,Rice,Kharif,81090.0,267075.0,3.29,786.0,115.3,63.1,Alluvial
+2021,Punjab,Rice,Kharif,102371.0,409751.0,4.0,612.0,112.5,50.5,Alluvial
+2022,Punjab,Rice,Kharif,125700.0,456380.0,3.63,714.0,105.4,52.0,Alluvial
+2023,Punjab,Rice,Kharif,233175.0,738975.0,3.17,591.0,136.0,53.7,Alluvial
+2024,Punjab,Rice,Kharif,269692.0,839770.0,3.11,775.0,135.0,62.4,Alluvial
+2015,Punjab,Maize,Kharif,99471.0,341472.0,3.43,673.0,139.2,44.4,Alluvial
+2016,Punjab,Maize,Kharif,71767.0,230681.0,3.21,547.0,154.2,67.9,Alluvial
+2017,Punjab,Maize,Kharif,45491.0,178666.0,3.93,392.0,117.2,61.0,Alluvial
+2018,Punjab,Maize,Kharif,91022.0,341219.0,3.75,648.0,147.4,42.3,Alluvial
+2019,Punjab,Maize,Kharif,73048.0,263772.0,3.61,817.0,155.7,71.2,Alluvial
+2020,Punjab,Maize,Kharif,69259.0,287449.0,4.15,625.0,146.1,52.3,Alluvial
+2021,Punjab,Maize,Kharif,78665.0,279028.0,3.55,387.0,123.3,82.0,Alluvial
+2022,Punjab,Maize,Kharif,95666.0,305851.0,3.2,576.0,128.9,39.6,Alluvial
+2023,Punjab,Maize,Kharif,142581.0,502445.0,3.52,531.0,155.1,73.1,Alluvial
+2024,Punjab,Maize,Kharif,88287.0,330145.0,3.74,689.0,116.8,45.8,Alluvial
+2015,Punjab,Groundnut,Kharif,77546.0,153997.0,1.99,834.0,39.5,39.4,Alluvial
+2016,Punjab,Groundnut,Kharif,63283.0,121849.0,1.93,871.0,36.6,68.5,Alluvial
+2017,Punjab,Groundnut,Kharif,56361.0,109762.0,1.95,588.0,36.3,60.5,Alluvial
+2018,Punjab,Groundnut,Kharif,73285.0,145752.0,1.99,663.0,47.1,74.6,Alluvial
+2019,Punjab,Groundnut,Kharif,62556.0,177402.0,2.84,361.0,38.4,51.3,Alluvial
+2020,Punjab,Groundnut,Kharif,138335.0,296372.0,2.14,658.0,44.5,86.2,Alluvial
+2021,Punjab,Groundnut,Kharif,91274.0,186720.0,2.05,834.0,45.6,93.6,Alluvial
+2022,Punjab,Groundnut,Kharif,109736.0,229463.0,2.09,825.0,36.9,50.0,Alluvial
+2023,Punjab,Groundnut,Kharif,82709.0,168256.0,2.03,647.0,44.5,84.5,Alluvial
+2024,Punjab,Groundnut,Kharif,73090.0,118217.0,1.62,808.0,46.0,61.3,Alluvial
+2015,Punjab,Mustard,Rabi,84586.0,113380.0,1.34,732.0,77.0,56.7,Alluvial
+2016,Punjab,Mustard,Rabi,72555.0,125420.0,1.73,408.0,70.1,62.9,Alluvial
+2017,Punjab,Mustard,Rabi,175065.0,322147.0,1.84,621.0,78.0,55.9,Alluvial
+2018,Punjab,Mustard,Rabi,66346.0,123610.0,1.86,737.0,75.0,60.7,Alluvial
+2019,Punjab,Mustard,Rabi,164088.0,217424.0,1.33,713.0,82.9,78.5,Alluvial
+2020,Punjab,Mustard,Rabi,76797.0,124725.0,1.62,1038.0,65.9,63.2,Alluvial
+2021,Punjab,Mustard,Rabi,112218.0,222683.0,1.98,844.0,58.6,69.0,Alluvial
+2022,Punjab,Mustard,Rabi,112439.0,179856.0,1.6,696.0,78.1,63.4,Alluvial
+2023,Punjab,Mustard,Rabi,132462.0,174869.0,1.32,672.0,64.4,60.9,Alluvial
+2024,Punjab,Mustard,Rabi,118608.0,156260.0,1.32,811.0,74.4,51.9,Alluvial
+2015,Punjab,Cotton,Kharif,98749.0,114519.0,1.16,406.0,119.3,55.3,Alluvial
+2016,Punjab,Cotton,Kharif,118003.0,164014.0,1.39,546.0,103.3,55.3,Alluvial
+2017,Punjab,Cotton,Kharif,110530.0,136574.0,1.24,627.0,129.6,55.4,Alluvial
+2018,Punjab,Cotton,Kharif,101457.0,100762.0,0.99,425.0,120.8,68.2,Alluvial
+2019,Punjab,Cotton,Kharif,102707.0,106040.0,1.03,717.0,122.3,100.0,Alluvial
+2020,Punjab,Cotton,Kharif,162773.0,158485.0,0.97,683.0,130.2,56.1,Alluvial
+2021,Punjab,Cotton,Kharif,203997.0,248863.0,1.22,272.0,111.4,99.3,Alluvial
+2022,Punjab,Cotton,Kharif,136203.0,154712.0,1.14,692.0,96.9,62.0,Alluvial
+2023,Punjab,Cotton,Kharif,145507.0,162769.0,1.12,280.0,113.5,63.0,Alluvial
+2024,Punjab,Cotton,Kharif,149320.0,158602.0,1.06,671.0,128.6,55.5,Alluvial
+2015,Punjab,Soybean,Kharif,116665.0,200651.0,1.72,433.0,41.8,39.8,Alluvial
+2016,Punjab,Soybean,Kharif,100943.0,149088.0,1.48,962.0,41.5,66.8,Alluvial
+2017,Punjab,Soybean,Kharif,94258.0,134650.0,1.43,564.0,55.5,65.7,Alluvial
+2018,Punjab,Soybean,Kharif,124751.0,197339.0,1.58,645.0,50.4,39.0,Alluvial
+2019,Punjab,Soybean,Kharif,114536.0,172159.0,1.5,799.0,49.4,61.6,Alluvial
+2020,Punjab,Soybean,Kharif,160143.0,232108.0,1.45,668.0,43.1,91.6,Alluvial
+2021,Punjab,Soybean,Kharif,93732.0,159292.0,1.7,437.0,53.7,51.1,Alluvial
+2022,Punjab,Soybean,Kharif,66590.0,99367.0,1.49,701.0,46.2,81.1,Alluvial
+2023,Punjab,Soybean,Kharif,74702.0,108861.0,1.46,549.0,45.9,54.8,Alluvial
+2024,Punjab,Soybean,Kharif,127372.0,232414.0,1.82,752.0,52.4,100.0,Alluvial
+2015,Punjab,Pulses,Rabi,131155.0,139006.0,1.06,661.0,32.3,51.0,Alluvial
+2016,Punjab,Pulses,Rabi,72697.0,80844.0,1.11,478.0,29.4,62.4,Alluvial
+2017,Punjab,Pulses,Rabi,80065.0,82985.0,1.04,787.0,29.3,100.0,Alluvial
+2018,Punjab,Pulses,Rabi,118092.0,134172.0,1.14,662.0,29.7,95.7,Alluvial
+2019,Punjab,Pulses,Rabi,48384.0,66376.0,1.37,698.0,29.9,68.8,Alluvial
+2020,Punjab,Pulses,Rabi,65265.0,68423.0,1.05,888.0,24.9,66.7,Alluvial
+2021,Punjab,Pulses,Rabi,124831.0,111767.0,0.9,490.0,29.9,86.8,Alluvial
+2022,Punjab,Pulses,Rabi,56855.0,77900.0,1.37,391.0,26.2,83.3,Alluvial
+2023,Punjab,Pulses,Rabi,101881.0,100147.0,0.98,649.0,29.2,59.6,Alluvial
+2024,Punjab,Pulses,Rabi,85824.0,82423.0,0.96,597.0,30.8,62.3,Alluvial
+2015,Karnataka,Sugarcane,Annual,94174.0,7037870.0,74.73,1023.0,231.1,73.0,Red
+2016,Karnataka,Sugarcane,Annual,129540.0,9986495.0,77.09,1032.0,242.8,30.4,Red
+2017,Karnataka,Sugarcane,Annual,86693.0,7340443.0,84.67,1150.0,242.5,82.3,Red
+2018,Karnataka,Sugarcane,Annual,127364.0,8056543.0,63.26,583.0,201.2,64.9,Red
+2019,Karnataka,Sugarcane,Annual,47031.0,3838210.0,81.61,1017.0,263.4,81.8,Red
+2020,Karnataka,Sugarcane,Annual,79860.0,6767476.0,84.74,1075.0,251.7,78.8,Red
+2021,Karnataka,Sugarcane,Annual,59304.0,5490751.0,92.59,1335.0,249.3,77.1,Red
+2022,Karnataka,Sugarcane,Annual,52654.0,4668240.0,88.66,1598.0,262.7,60.9,Red
+2023,Karnataka,Sugarcane,Annual,67619.0,5914095.0,87.46,1167.0,204.2,72.5,Red
+2024,Karnataka,Sugarcane,Annual,70109.0,6009077.0,85.71,1175.0,232.0,60.3,Red
+2015,Karnataka,Potato,Rabi,85522.0,2653860.0,31.03,891.0,167.8,65.2,Red
+2016,Karnataka,Potato,Rabi,48277.0,1394147.0,28.88,720.0,176.1,28.3,Red
+2017,Karnataka,Potato,Rabi,87606.0,2285591.0,26.09,828.0,145.5,76.9,Red
+2018,Karnataka,Potato,Rabi,75672.0,1820777.0,24.06,1216.0,163.8,77.1,Red
+2019,Karnataka,Potato,Rabi,74151.0,2040035.0,27.51,951.0,145.6,83.8,Red
+2020,Karnataka,Potato,Rabi,107957.0,2941096.0,27.24,748.0,176.0,45.5,Red
+2021,Karnataka,Potato,Rabi,85570.0,2634465.0,30.79,1444.0,208.3,67.8,Red
+2022,Karnataka,Potato,Rabi,125725.0,3186289.0,25.34,1345.0,183.6,69.2,Red
+2023,Karnataka,Potato,Rabi,80734.0,2329477.0,28.85,988.0,196.2,43.5,Red
+2024,Karnataka,Potato,Rabi,74726.0,1709049.0,22.87,624.0,165.6,97.6,Red
+2015,Karnataka,Wheat,Rabi,65315.0,294351.0,4.51,683.0,114.6,90.6,Red
+2016,Karnataka,Wheat,Rabi,96926.0,348499.0,3.6,1179.0,136.6,69.8,Red
+2017,Karnataka,Wheat,Rabi,111521.0,372819.0,3.34,1207.0,157.4,74.8,Red
+2018,Karnataka,Wheat,Rabi,55281.0,237433.0,4.3,925.0,145.8,26.2,Red
+2019,Karnataka,Wheat,Rabi,98157.0,361081.0,3.68,983.0,137.5,73.2,Red
+2020,Karnataka,Wheat,Rabi,101150.0,363984.0,3.6,841.0,163.8,84.3,Red
+2021,Karnataka,Wheat,Rabi,182421.0,744844.0,4.08,1113.0,163.8,44.1,Red
+2022,Karnataka,Wheat,Rabi,153391.0,584863.0,3.81,1192.0,166.3,72.8,Red
+2023,Karnataka,Wheat,Rabi,85273.0,294922.0,3.46,1297.0,116.4,15.0,Red
+2024,Karnataka,Wheat,Rabi,68844.0,301627.0,4.38,274.0,135.4,83.5,Red
+2015,Karnataka,Rice,Kharif,60458.0,197781.0,3.27,728.0,99.6,83.5,Red
+2016,Karnataka,Rice,Kharif,98027.0,264526.0,2.7,1475.0,120.5,43.5,Red
+2017,Karnataka,Rice,Kharif,119553.0,378822.0,3.17,858.0,113.7,78.2,Red
+2018,Karnataka,Rice,Kharif,166374.0,459997.0,2.76,1034.0,141.2,88.3,Red
+2019,Karnataka,Rice,Kharif,95223.0,275199.0,2.89,1611.0,114.2,44.1,Red
+2020,Karnataka,Rice,Kharif,86891.0,272234.0,3.13,920.0,140.5,66.7,Red
+2021,Karnataka,Rice,Kharif,61074.0,179112.0,2.93,523.0,103.2,32.5,Red
+2022,Karnataka,Rice,Kharif,99561.0,309138.0,3.11,889.0,99.4,100.0,Red
+2023,Karnataka,Rice,Kharif,78899.0,269946.0,3.42,1221.0,112.1,53.2,Red
+2024,Karnataka,Rice,Kharif,78392.0,273373.0,3.49,855.0,117.4,43.4,Red
+2015,Karnataka,Maize,Kharif,60978.0,211999.0,3.48,982.0,150.0,53.5,Red
+2016,Karnataka,Maize,Kharif,79233.0,275977.0,3.48,1082.0,139.8,73.7,Red
+2017,Karnataka,Maize,Kharif,49376.0,182822.0,3.7,1125.0,126.9,79.3,Red
+2018,Karnataka,Maize,Kharif,53019.0,185452.0,3.5,1062.0,105.7,95.5,Red
+2019,Karnataka,Maize,Kharif,190346.0,583148.0,3.06,1371.0,109.7,68.9,Red
+2020,Karnataka,Maize,Kharif,46557.0,202376.0,4.35,1290.0,124.5,54.9,Red
+2021,Karnataka,Maize,Kharif,61096.0,220657.0,3.61,1078.0,134.9,59.8,Red
+2022,Karnataka,Maize,Kharif,137396.0,506290.0,3.68,929.0,125.9,40.5,Red
+2023,Karnataka,Maize,Kharif,211577.0,797844.0,3.77,1307.0,105.2,82.4,Red
+2024,Karnataka,Maize,Kharif,55738.0,202684.0,3.64,1263.0,145.0,63.4,Red
+2015,Karnataka,Groundnut,Kharif,70513.0,132258.0,1.88,1787.0,32.7,53.0,Red
+2016,Karnataka,Groundnut,Kharif,79991.0,168452.0,2.11,1222.0,37.4,85.2,Red
+2017,Karnataka,Groundnut,Kharif,140988.0,278669.0,1.98,831.0,45.5,76.3,Red
+2018,Karnataka,Groundnut,Kharif,66789.0,114714.0,1.72,1661.0,39.6,64.8,Red
+2019,Karnataka,Groundnut,Kharif,63319.0,153188.0,2.42,1196.0,40.1,53.1,Red
+2020,Karnataka,Groundnut,Kharif,93941.0,201369.0,2.14,1287.0,40.0,50.8,Red
+2021,Karnataka,Groundnut,Kharif,92150.0,187103.0,2.03,1130.0,45.8,38.5,Red
+2022,Karnataka,Groundnut,Kharif,65255.0,139599.0,2.14,402.0,38.2,56.4,Red
+2023,Karnataka,Groundnut,Kharif,73419.0,171714.0,2.34,1008.0,36.8,57.9,Red
+2024,Karnataka,Groundnut,Kharif,50397.0,102129.0,2.03,1362.0,42.9,82.9,Red
+2015,Karnataka,Mustard,Rabi,90855.0,128963.0,1.42,1235.0,65.9,76.9,Red
+2016,Karnataka,Mustard,Rabi,65401.0,131633.0,2.01,931.0,66.1,47.1,Red
+2017,Karnataka,Mustard,Rabi,96357.0,166804.0,1.73,1293.0,81.2,44.8,Red
+2018,Karnataka,Mustard,Rabi,69834.0,122443.0,1.75,798.0,59.5,100.0,Red
+2019,Karnataka,Mustard,Rabi,106589.0,178121.0,1.67,1318.0,82.2,32.4,Red
+2020,Karnataka,Mustard,Rabi,136227.0,202654.0,1.49,836.0,83.8,96.0,Red
+2021,Karnataka,Mustard,Rabi,97647.0,161355.0,1.65,1259.0,70.9,61.9,Red
+2022,Karnataka,Mustard,Rabi,90708.0,162861.0,1.8,1141.0,82.0,61.5,Red
+2023,Karnataka,Mustard,Rabi,110966.0,170319.0,1.53,746.0,62.7,60.3,Red
+2024,Karnataka,Mustard,Rabi,89854.0,144673.0,1.61,780.0,66.6,66.0,Red
+2015,Karnataka,Cotton,Kharif,110864.0,102658.0,0.93,887.0,91.9,72.0,Red
+2016,Karnataka,Cotton,Kharif,138157.0,144283.0,1.04,1196.0,131.6,79.0,Red
+2017,Karnataka,Cotton,Kharif,117271.0,139056.0,1.19,1015.0,101.8,73.4,Red
+2018,Karnataka,Cotton,Kharif,203132.0,249409.0,1.23,1331.0,127.4,79.7,Red
+2019,Karnataka,Cotton,Kharif,188054.0,228127.0,1.21,1376.0,101.6,50.5,Red
+2020,Karnataka,Cotton,Kharif,160050.0,154522.0,0.97,1594.0,121.9,34.1,Red
+2021,Karnataka,Cotton,Kharif,102390.0,112726.0,1.1,1372.0,121.9,55.8,Red
+2022,Karnataka,Cotton,Kharif,68075.0,96596.0,1.42,849.0,92.3,68.8,Red
+2023,Karnataka,Cotton,Kharif,175438.0,220515.0,1.26,1293.0,107.7,68.6,Red
+2024,Karnataka,Cotton,Kharif,113253.0,144052.0,1.27,1075.0,126.7,66.9,Red
+2015,Karnataka,Soybean,Kharif,87286.0,143238.0,1.64,1372.0,46.6,65.8,Red
+2016,Karnataka,Soybean,Kharif,52124.0,75645.0,1.45,1169.0,50.1,68.5,Red
+2017,Karnataka,Soybean,Kharif,88287.0,183991.0,2.08,999.0,48.3,84.2,Red
+2018,Karnataka,Soybean,Kharif,91725.0,148423.0,1.62,1822.0,55.7,70.8,Red
+2019,Karnataka,Soybean,Kharif,68286.0,99222.0,1.45,1049.0,50.5,80.2,Red
+2020,Karnataka,Soybean,Kharif,69960.0,116247.0,1.66,1512.0,45.3,59.0,Red
+2021,Karnataka,Soybean,Kharif,67464.0,149244.0,2.21,1263.0,54.4,52.5,Red
+2022,Karnataka,Soybean,Kharif,93337.0,133300.0,1.43,1419.0,41.4,67.3,Red
+2023,Karnataka,Soybean,Kharif,86633.0,137492.0,1.59,1360.0,42.4,45.6,Red
+2024,Karnataka,Soybean,Kharif,76437.0,125574.0,1.64,1323.0,46.5,50.4,Red
+2015,Karnataka,Pulses,Rabi,54023.0,70283.0,1.3,936.0,25.9,48.0,Red
+2016,Karnataka,Pulses,Rabi,58258.0,81683.0,1.4,1332.0,35.1,87.4,Red
+2017,Karnataka,Pulses,Rabi,78761.0,132391.0,1.68,659.0,35.4,53.9,Red
+2018,Karnataka,Pulses,Rabi,33841.0,36649.0,1.08,840.0,29.0,43.1,Red
+2019,Karnataka,Pulses,Rabi,63121.0,78814.0,1.25,1165.0,32.5,74.1,Red
+2020,Karnataka,Pulses,Rabi,66927.0,86296.0,1.29,1043.0,28.1,69.2,Red
+2021,Karnataka,Pulses,Rabi,96023.0,92104.0,0.96,862.0,33.0,65.3,Red
+2022,Karnataka,Pulses,Rabi,60687.0,71732.0,1.18,1015.0,28.4,74.9,Red
+2023,Karnataka,Pulses,Rabi,41384.0,54155.0,1.31,882.0,28.4,65.7,Red
+2024,Karnataka,Pulses,Rabi,71336.0,87356.0,1.22,616.0,27.1,65.3,Red
+2015,Haryana,Sugarcane,Annual,118462.0,9230836.0,77.92,438.0,223.0,61.8,Sandy
+2016,Haryana,Sugarcane,Annual,44189.0,3572059.0,80.84,633.0,261.0,59.7,Sandy
+2017,Haryana,Sugarcane,Annual,105704.0,8001936.0,75.7,610.0,181.2,57.2,Sandy
+2018,Haryana,Sugarcane,Annual,59171.0,5202071.0,87.92,685.0,216.3,97.0,Sandy
+2019,Haryana,Sugarcane,Annual,83610.0,6025327.0,72.06,552.0,242.1,63.2,Sandy
+2020,Haryana,Sugarcane,Annual,58517.0,4328346.0,73.97,346.0,231.3,51.2,Sandy
+2021,Haryana,Sugarcane,Annual,68437.0,5529009.0,80.79,441.0,252.5,69.2,Sandy
+2022,Haryana,Sugarcane,Annual,105516.0,8591306.0,81.42,630.0,251.7,70.0,Sandy
+2023,Haryana,Sugarcane,Annual,93495.0,7923968.0,84.75,402.0,205.8,93.5,Sandy
+2024,Haryana,Sugarcane,Annual,134903.0,9655359.0,71.57,406.0,254.1,63.4,Sandy
+2015,Haryana,Potato,Rabi,106403.0,2481292.0,23.32,508.0,214.0,50.5,Sandy
+2016,Haryana,Potato,Rabi,93096.0,2046719.0,21.99,680.0,165.5,53.8,Sandy
+2017,Haryana,Potato,Rabi,153690.0,3303316.0,21.49,448.0,144.3,86.0,Sandy
+2018,Haryana,Potato,Rabi,90474.0,2076167.0,22.95,538.0,178.0,22.1,Sandy
+2019,Haryana,Potato,Rabi,84781.0,2494222.0,29.42,387.0,181.6,69.4,Sandy
+2020,Haryana,Potato,Rabi,58166.0,1721671.0,29.6,626.0,215.6,50.9,Sandy
+2021,Haryana,Potato,Rabi,74820.0,1976882.0,26.42,523.0,169.4,79.2,Sandy
+2022,Haryana,Potato,Rabi,53510.0,1495890.0,27.96,521.0,179.7,56.8,Sandy
+2023,Haryana,Potato,Rabi,103894.0,2838234.0,27.32,400.0,173.0,81.4,Sandy
+2024,Haryana,Potato,Rabi,48447.0,1278311.0,26.39,200.0,159.0,99.0,Sandy
+2015,Haryana,Wheat,Rabi,96740.0,344105.0,3.56,277.0,144.5,65.2,Sandy
+2016,Haryana,Wheat,Rabi,61002.0,264543.0,4.34,588.0,136.0,71.5,Sandy
+2017,Haryana,Wheat,Rabi,105173.0,434331.0,4.13,863.0,143.8,36.6,Sandy
+2018,Haryana,Wheat,Rabi,88825.0,355944.0,4.01,707.0,152.8,57.3,Sandy
+2019,Haryana,Wheat,Rabi,120080.0,524508.0,4.37,678.0,160.3,51.5,Sandy
+2020,Haryana,Wheat,Rabi,102367.0,365836.0,3.57,508.0,115.2,49.0,Sandy
+2021,Haryana,Wheat,Rabi,69245.0,188789.0,2.73,490.0,135.9,56.1,Sandy
+2022,Haryana,Wheat,Rabi,58897.0,282181.0,4.79,552.0,167.4,69.7,Sandy
+2023,Haryana,Wheat,Rabi,55242.0,231688.0,4.19,588.0,138.7,66.0,Sandy
+2024,Haryana,Wheat,Rabi,60352.0,243285.0,4.03,600.0,126.7,72.3,Sandy
+2015,Haryana,Rice,Kharif,93922.0,417329.0,4.44,513.0,118.2,87.6,Sandy
+2016,Haryana,Rice,Kharif,84827.0,330538.0,3.9,552.0,113.5,74.3,Sandy
+2017,Haryana,Rice,Kharif,92765.0,241536.0,2.6,752.0,102.4,83.0,Sandy
+2018,Haryana,Rice,Kharif,66996.0,204314.0,3.05,337.0,103.2,64.4,Sandy
+2019,Haryana,Rice,Kharif,93323.0,298977.0,3.2,562.0,143.4,80.0,Sandy
+2020,Haryana,Rice,Kharif,51575.0,198790.0,3.85,666.0,124.4,61.6,Sandy
+2021,Haryana,Rice,Kharif,90782.0,241089.0,2.66,524.0,124.6,47.5,Sandy
+2022,Haryana,Rice,Kharif,92609.0,308124.0,3.33,455.0,101.9,78.5,Sandy
+2023,Haryana,Rice,Kharif,123518.0,453888.0,3.67,635.0,132.1,68.6,Sandy
+2024,Haryana,Rice,Kharif,112793.0,332490.0,2.95,249.0,122.7,70.8,Sandy
+2015,Haryana,Maize,Kharif,28818.0,119889.0,4.16,766.0,139.5,47.0,Sandy
+2016,Haryana,Maize,Kharif,77949.0,268868.0,3.45,616.0,129.3,91.6,Sandy
+2017,Haryana,Maize,Kharif,66486.0,273624.0,4.12,497.0,107.5,79.2,Sandy
+2018,Haryana,Maize,Kharif,89392.0,281854.0,3.15,517.0,143.8,93.7,Sandy
+2019,Haryana,Maize,Kharif,125332.0,432179.0,3.45,215.0,107.6,52.4,Sandy
+2020,Haryana,Maize,Kharif,38326.0,138614.0,3.62,538.0,147.1,79.2,Sandy
+2021,Haryana,Maize,Kharif,74153.0,221988.0,2.99,479.0,140.3,53.9,Sandy
+2022,Haryana,Maize,Kharif,101518.0,301153.0,2.97,642.0,126.7,64.2,Sandy
+2023,Haryana,Maize,Kharif,63123.0,179509.0,2.84,647.0,114.5,70.6,Sandy
+2024,Haryana,Maize,Kharif,119853.0,387693.0,3.23,391.0,106.6,61.7,Sandy
+2015,Haryana,Groundnut,Kharif,77069.0,142600.0,1.85,631.0,42.5,82.6,Sandy
+2016,Haryana,Groundnut,Kharif,81947.0,169435.0,2.07,454.0,42.0,75.4,Sandy
+2017,Haryana,Groundnut,Kharif,67068.0,120837.0,1.8,323.0,36.4,58.6,Sandy
+2018,Haryana,Groundnut,Kharif,113176.0,170194.0,1.5,476.0,33.4,93.4,Sandy
+2019,Haryana,Groundnut,Kharif,120516.0,196390.0,1.63,352.0,45.2,89.4,Sandy
+2020,Haryana,Groundnut,Kharif,80871.0,147837.0,1.83,463.0,39.1,23.1,Sandy
+2021,Haryana,Groundnut,Kharif,95254.0,152301.0,1.6,511.0,37.9,57.2,Sandy
+2022,Haryana,Groundnut,Kharif,72405.0,146501.0,2.02,706.0,38.0,54.6,Sandy
+2023,Haryana,Groundnut,Kharif,59779.0,119257.0,1.99,801.0,33.7,83.5,Sandy
+2024,Haryana,Groundnut,Kharif,72118.0,127581.0,1.77,564.0,44.4,47.8,Sandy
+2015,Haryana,Mustard,Rabi,80479.0,114381.0,1.42,588.0,57.4,62.7,Sandy
+2016,Haryana,Mustard,Rabi,85742.0,138277.0,1.61,629.0,71.5,78.3,Sandy
+2017,Haryana,Mustard,Rabi,102883.0,181531.0,1.76,908.0,56.9,56.8,Sandy
+2018,Haryana,Mustard,Rabi,51895.0,91013.0,1.75,663.0,63.8,57.7,Sandy
+2019,Haryana,Mustard,Rabi,75442.0,128742.0,1.71,436.0,70.9,66.6,Sandy
+2020,Haryana,Mustard,Rabi,111879.0,201630.0,1.8,467.0,59.3,30.5,Sandy
+2021,Haryana,Mustard,Rabi,77466.0,106507.0,1.37,369.0,60.1,43.6,Sandy
+2022,Haryana,Mustard,Rabi,67345.0,98989.0,1.47,444.0,60.6,88.8,Sandy
+2023,Haryana,Mustard,Rabi,88925.0,153966.0,1.73,552.0,81.5,57.2,Sandy
+2024,Haryana,Mustard,Rabi,96858.0,161109.0,1.66,630.0,79.2,65.7,Sandy
+2015,Haryana,Cotton,Kharif,117634.0,110566.0,0.94,579.0,118.4,60.0,Sandy
+2016,Haryana,Cotton,Kharif,113298.0,168988.0,1.49,429.0,122.4,64.4,Sandy
+2017,Haryana,Cotton,Kharif,135047.0,160038.0,1.19,534.0,110.3,80.3,Sandy
+2018,Haryana,Cotton,Kharif,104673.0,148117.0,1.42,550.0,130.7,52.4,Sandy
+2019,Haryana,Cotton,Kharif,110465.0,145248.0,1.31,445.0,111.9,100.0,Sandy
+2020,Haryana,Cotton,Kharif,202353.0,239174.0,1.18,249.0,100.5,87.2,Sandy
+2021,Haryana,Cotton,Kharif,89877.0,115196.0,1.28,584.0,108.4,73.7,Sandy
+2022,Haryana,Cotton,Kharif,46043.0,63913.0,1.39,676.0,120.9,71.5,Sandy
+2023,Haryana,Cotton,Kharif,161379.0,215770.0,1.34,508.0,89.8,95.7,Sandy
+2024,Haryana,Cotton,Kharif,81498.0,100318.0,1.23,661.0,88.7,54.4,Sandy
+2015,Haryana,Soybean,Kharif,69153.0,110735.0,1.6,747.0,50.9,34.2,Sandy
+2016,Haryana,Soybean,Kharif,104891.0,163465.0,1.56,795.0,42.4,74.8,Sandy
+2017,Haryana,Soybean,Kharif,47772.0,74462.0,1.56,302.0,41.5,77.3,Sandy
+2018,Haryana,Soybean,Kharif,48494.0,76904.0,1.59,499.0,46.7,55.2,Sandy
+2019,Haryana,Soybean,Kharif,40331.0,74026.0,1.84,625.0,55.4,67.6,Sandy
+2020,Haryana,Soybean,Kharif,58250.0,91218.0,1.57,694.0,58.3,35.8,Sandy
+2021,Haryana,Soybean,Kharif,78999.0,136002.0,1.72,637.0,59.0,72.3,Sandy
+2022,Haryana,Soybean,Kharif,86262.0,132745.0,1.54,658.0,55.1,56.2,Sandy
+2023,Haryana,Soybean,Kharif,91499.0,140951.0,1.54,828.0,44.7,74.0,Sandy
+2024,Haryana,Soybean,Kharif,56059.0,73290.0,1.31,535.0,56.4,27.5,Sandy
+2015,Haryana,Pulses,Rabi,26073.0,32766.0,1.26,498.0,29.9,80.1,Sandy
+2016,Haryana,Pulses,Rabi,48119.0,68559.0,1.42,755.0,34.8,65.8,Sandy
+2017,Haryana,Pulses,Rabi,45417.0,63885.0,1.41,781.0,35.2,48.1,Sandy
+2018,Haryana,Pulses,Rabi,63913.0,78533.0,1.23,610.0,28.1,73.4,Sandy
+2019,Haryana,Pulses,Rabi,57309.0,90291.0,1.58,638.0,30.0,68.3,Sandy
+2020,Haryana,Pulses,Rabi,62027.0,73745.0,1.19,602.0,29.1,47.7,Sandy
+2021,Haryana,Pulses,Rabi,65542.0,91512.0,1.4,739.0,26.4,82.4,Sandy
+2022,Haryana,Pulses,Rabi,62564.0,74261.0,1.19,597.0,34.4,82.9,Sandy
+2023,Haryana,Pulses,Rabi,76742.0,92963.0,1.21,744.0,33.6,76.2,Sandy
+2024,Haryana,Pulses,Rabi,51043.0,55396.0,1.09,847.0,29.0,77.8,Sandy
+2015,West Bengal,Sugarcane,Annual,88151.0,5811567.0,65.93,1390.0,257.6,70.2,Alluvial
+2016,West Bengal,Sugarcane,Annual,105383.0,6697421.0,63.55,2204.0,195.9,90.4,Alluvial
+2017,West Bengal,Sugarcane,Annual,111369.0,8811721.0,79.12,1840.0,197.6,48.8,Alluvial
+2018,West Bengal,Sugarcane,Annual,80178.0,5690972.0,70.98,1664.0,182.2,41.0,Alluvial
+2019,West Bengal,Sugarcane,Annual,122302.0,8005337.0,65.46,2110.0,215.4,57.9,Alluvial
+2020,West Bengal,Sugarcane,Annual,95558.0,6114681.0,63.99,1453.0,220.1,81.7,Alluvial
+2021,West Bengal,Sugarcane,Annual,90310.0,6582878.0,72.89,2450.0,206.0,52.7,Alluvial
+2022,West Bengal,Sugarcane,Annual,86550.0,8322663.0,96.16,1843.0,227.3,62.2,Alluvial
+2023,West Bengal,Sugarcane,Annual,43398.0,4081916.0,94.06,2391.0,235.1,64.2,Alluvial
+2024,West Bengal,Sugarcane,Annual,53714.0,4341705.0,80.83,1319.0,209.6,65.1,Alluvial
+2015,West Bengal,Potato,Rabi,41830.0,1246437.0,29.8,2278.0,146.3,61.1,Alluvial
+2016,West Bengal,Potato,Rabi,35313.0,993835.0,28.14,1494.0,182.4,63.4,Alluvial
+2017,West Bengal,Potato,Rabi,77026.0,1781857.0,23.13,1331.0,177.7,62.2,Alluvial
+2018,West Bengal,Potato,Rabi,80347.0,2542238.0,31.64,1525.0,190.3,100.0,Alluvial
+2019,West Bengal,Potato,Rabi,87055.0,1992728.0,22.89,920.0,206.0,50.1,Alluvial
+2020,West Bengal,Potato,Rabi,85938.0,2227751.0,25.92,1494.0,144.9,47.9,Alluvial
+2021,West Bengal,Potato,Rabi,117855.0,2997298.0,25.43,1947.0,169.6,52.4,Alluvial
+2022,West Bengal,Potato,Rabi,122914.0,3063763.0,24.93,1125.0,200.5,67.1,Alluvial
+2023,West Bengal,Potato,Rabi,93042.0,2304710.0,24.77,1631.0,144.2,53.2,Alluvial
+2024,West Bengal,Potato,Rabi,107956.0,3048031.0,28.23,2378.0,163.6,73.7,Alluvial
+2015,West Bengal,Wheat,Rabi,84565.0,312083.0,3.69,1910.0,151.6,74.2,Alluvial
+2016,West Bengal,Wheat,Rabi,79176.0,243075.0,3.07,1949.0,121.8,61.0,Alluvial
+2017,West Bengal,Wheat,Rabi,66654.0,285289.0,4.28,1448.0,123.6,67.5,Alluvial
+2018,West Bengal,Wheat,Rabi,66090.0,203312.0,3.08,1645.0,124.6,30.6,Alluvial
+2019,West Bengal,Wheat,Rabi,79698.0,259619.0,3.26,1298.0,161.4,58.4,Alluvial
+2020,West Bengal,Wheat,Rabi,65532.0,294400.0,4.49,2168.0,149.8,67.6,Alluvial
+2021,West Bengal,Wheat,Rabi,107880.0,429537.0,3.98,1373.0,117.6,45.0,Alluvial
+2022,West Bengal,Wheat,Rabi,128189.0,538214.0,4.2,2269.0,136.9,61.8,Alluvial
+2023,West Bengal,Wheat,Rabi,60897.0,242676.0,3.99,498.0,121.1,63.0,Alluvial
+2024,West Bengal,Wheat,Rabi,94493.0,356722.0,3.78,2059.0,154.2,44.5,Alluvial
+2015,West Bengal,Rice,Kharif,64807.0,216531.0,3.34,1780.0,108.5,67.9,Alluvial
+2016,West Bengal,Rice,Kharif,91218.0,351166.0,3.85,1275.0,126.6,88.2,Alluvial
+2017,West Bengal,Rice,Kharif,115773.0,319501.0,2.76,1829.0,129.0,58.3,Alluvial
+2018,West Bengal,Rice,Kharif,58510.0,178376.0,3.05,1676.0,136.1,42.2,Alluvial
+2019,West Bengal,Rice,Kharif,147744.0,436334.0,2.95,1180.0,136.6,56.7,Alluvial
+2020,West Bengal,Rice,Kharif,78642.0,266428.0,3.39,1574.0,128.6,60.8,Alluvial
+2021,West Bengal,Rice,Kharif,61403.0,280262.0,4.56,2359.0,98.9,76.7,Alluvial
+2022,West Bengal,Rice,Kharif,73837.0,227094.0,3.08,973.0,111.8,85.9,Alluvial
+2023,West Bengal,Rice,Kharif,76367.0,294230.0,3.85,1544.0,98.2,78.5,Alluvial
+2024,West Bengal,Rice,Kharif,98640.0,351334.0,3.56,1578.0,122.8,67.0,Alluvial
+2015,West Bengal,Maize,Kharif,61353.0,251280.0,4.1,1226.0,152.0,71.0,Alluvial
+2016,West Bengal,Maize,Kharif,76741.0,302142.0,3.94,2131.0,153.7,35.9,Alluvial
+2017,West Bengal,Maize,Kharif,98661.0,332989.0,3.38,2139.0,115.4,52.5,Alluvial
+2018,West Bengal,Maize,Kharif,142727.0,412737.0,2.89,2450.0,127.5,78.9,Alluvial
+2019,West Bengal,Maize,Kharif,66285.0,267878.0,4.04,2002.0,137.4,62.1,Alluvial
+2020,West Bengal,Maize,Kharif,53940.0,184379.0,3.42,2450.0,106.4,56.7,Alluvial
+2021,West Bengal,Maize,Kharif,107041.0,407284.0,3.8,1308.0,116.8,53.1,Alluvial
+2022,West Bengal,Maize,Kharif,66668.0,254752.0,3.82,2216.0,107.3,66.7,Alluvial
+2023,West Bengal,Maize,Kharif,124803.0,449651.0,3.6,1725.0,126.4,56.9,Alluvial
+2024,West Bengal,Maize,Kharif,72518.0,311634.0,4.3,1703.0,152.9,55.7,Alluvial
+2015,West Bengal,Groundnut,Kharif,60033.0,136946.0,2.28,2046.0,38.6,60.4,Alluvial
+2016,West Bengal,Groundnut,Kharif,76025.0,162799.0,2.14,1468.0,38.6,82.5,Alluvial
+2017,West Bengal,Groundnut,Kharif,129393.0,287270.0,2.22,1320.0,46.9,67.0,Alluvial
+2018,West Bengal,Groundnut,Kharif,112787.0,277353.0,2.46,912.0,32.3,40.2,Alluvial
+2019,West Bengal,Groundnut,Kharif,87640.0,162352.0,1.85,1591.0,38.4,55.4,Alluvial
+2020,West Bengal,Groundnut,Kharif,80655.0,161369.0,2.0,1516.0,33.5,79.0,Alluvial
+2021,West Bengal,Groundnut,Kharif,99963.0,218722.0,2.19,2119.0,35.5,70.4,Alluvial
+2022,West Bengal,Groundnut,Kharif,53939.0,116935.0,2.17,1299.0,34.0,62.9,Alluvial
+2023,West Bengal,Groundnut,Kharif,76393.0,190490.0,2.49,2450.0,41.8,100.0,Alluvial
+2024,West Bengal,Groundnut,Kharif,82419.0,147620.0,1.79,2179.0,35.3,47.1,Alluvial
+2015,West Bengal,Mustard,Rabi,86500.0,146768.0,1.7,1703.0,82.1,69.2,Alluvial
+2016,West Bengal,Mustard,Rabi,58006.0,107085.0,1.85,1783.0,74.2,84.7,Alluvial
+2017,West Bengal,Mustard,Rabi,54317.0,93130.0,1.71,2070.0,71.9,46.2,Alluvial
+2018,West Bengal,Mustard,Rabi,50133.0,74892.0,1.49,1478.0,74.9,82.6,Alluvial
+2019,West Bengal,Mustard,Rabi,67938.0,106643.0,1.57,2376.0,79.9,69.4,Alluvial
+2020,West Bengal,Mustard,Rabi,86739.0,125686.0,1.45,2439.0,56.2,67.3,Alluvial
+2021,West Bengal,Mustard,Rabi,88585.0,136009.0,1.54,1361.0,72.5,76.4,Alluvial
+2022,West Bengal,Mustard,Rabi,173597.0,252709.0,1.46,2450.0,75.5,42.4,Alluvial
+2023,West Bengal,Mustard,Rabi,132489.0,225254.0,1.7,2419.0,80.7,75.3,Alluvial
+2024,West Bengal,Mustard,Rabi,81552.0,104535.0,1.28,1454.0,58.4,30.9,Alluvial
+2015,West Bengal,Cotton,Kharif,112171.0,136440.0,1.22,769.0,97.8,55.3,Alluvial
+2016,West Bengal,Cotton,Kharif,103165.0,111990.0,1.09,1923.0,106.4,81.1,Alluvial
+2017,West Bengal,Cotton,Kharif,96577.0,126780.0,1.31,2249.0,126.5,70.5,Alluvial
+2018,West Bengal,Cotton,Kharif,106403.0,135699.0,1.28,1812.0,128.2,59.0,Alluvial
+2019,West Bengal,Cotton,Kharif,151962.0,165232.0,1.09,1934.0,88.5,53.1,Alluvial
+2020,West Bengal,Cotton,Kharif,108218.0,119882.0,1.11,1220.0,114.1,66.4,Alluvial
+2021,West Bengal,Cotton,Kharif,173893.0,188054.0,1.08,2104.0,100.5,39.7,Alluvial
+2022,West Bengal,Cotton,Kharif,68102.0,92331.0,1.36,1515.0,116.6,65.7,Alluvial
+2023,West Bengal,Cotton,Kharif,108342.0,149042.0,1.38,1759.0,124.1,74.8,Alluvial
+2024,West Bengal,Cotton,Kharif,247330.0,279877.0,1.13,2450.0,126.5,24.8,Alluvial
+2015,West Bengal,Soybean,Kharif,76608.0,127880.0,1.67,2450.0,52.1,98.0,Alluvial
+2016,West Bengal,Soybean,Kharif,133747.0,189254.0,1.42,2149.0,51.0,69.0,Alluvial
+2017,West Bengal,Soybean,Kharif,100591.0,138077.0,1.37,1468.0,56.4,81.2,Alluvial
+2018,West Bengal,Soybean,Kharif,84443.0,148661.0,1.76,1871.0,49.5,59.4,Alluvial
+2019,West Bengal,Soybean,Kharif,89764.0,131257.0,1.46,2130.0,42.0,84.0,Alluvial
+2020,West Bengal,Soybean,Kharif,84005.0,122702.0,1.46,551.0,54.9,90.6,Alluvial
+2021,West Bengal,Soybean,Kharif,69059.0,105248.0,1.52,1422.0,42.2,87.8,Alluvial
+2022,West Bengal,Soybean,Kharif,89766.0,143977.0,1.6,1622.0,57.8,69.1,Alluvial
+2023,West Bengal,Soybean,Kharif,57855.0,112107.0,1.94,1935.0,54.2,86.0,Alluvial
+2024,West Bengal,Soybean,Kharif,109746.0,152523.0,1.39,2080.0,44.7,59.1,Alluvial
+2015,West Bengal,Pulses,Rabi,114150.0,101231.0,0.89,819.0,30.8,74.6,Alluvial
+2016,West Bengal,Pulses,Rabi,69079.0,83993.0,1.22,1831.0,34.3,42.2,Alluvial
+2017,West Bengal,Pulses,Rabi,63030.0,75350.0,1.2,1883.0,24.8,65.5,Alluvial
+2018,West Bengal,Pulses,Rabi,88363.0,87469.0,0.99,2367.0,32.5,100.0,Alluvial
+2019,West Bengal,Pulses,Rabi,62260.0,74384.0,1.19,2200.0,31.6,64.4,Alluvial
+2020,West Bengal,Pulses,Rabi,93453.0,104501.0,1.12,1802.0,29.4,50.9,Alluvial
+2021,West Bengal,Pulses,Rabi,39709.0,46918.0,1.18,1483.0,27.0,63.4,Alluvial
+2022,West Bengal,Pulses,Rabi,48438.0,69933.0,1.44,1664.0,33.4,41.2,Alluvial
+2023,West Bengal,Pulses,Rabi,42826.0,48683.0,1.14,1842.0,26.6,69.0,Alluvial
+2024,West Bengal,Pulses,Rabi,34429.0,48754.0,1.42,2030.0,26.9,63.9,Alluvial
+2015,Madhya Pradesh,Sugarcane,Annual,73301.0,7808251.0,106.52,923.0,212.1,43.2,Black
+2016,Madhya Pradesh,Sugarcane,Annual,66025.0,6983385.0,105.77,1265.0,177.4,87.5,Black
+2017,Madhya Pradesh,Sugarcane,Annual,54059.0,4694393.0,86.84,1566.0,252.5,60.2,Black
+2018,Madhya Pradesh,Sugarcane,Annual,45616.0,3450576.0,75.64,532.0,229.6,60.1,Black
+2019,Madhya Pradesh,Sugarcane,Annual,27226.0,2379019.0,87.38,1669.0,234.0,57.4,Black
+2020,Madhya Pradesh,Sugarcane,Annual,58655.0,4757319.0,81.11,1309.0,194.1,53.6,Black
+2021,Madhya Pradesh,Sugarcane,Annual,131303.0,11919167.0,90.78,1149.0,253.0,55.4,Black
+2022,Madhya Pradesh,Sugarcane,Annual,99930.0,6251869.0,62.56,728.0,217.0,72.2,Black
+2023,Madhya Pradesh,Sugarcane,Annual,72718.0,5306336.0,72.97,1005.0,198.7,55.2,Black
+2024,Madhya Pradesh,Sugarcane,Annual,71304.0,6227790.0,87.34,693.0,260.4,69.9,Black
+2015,Madhya Pradesh,Potato,Rabi,40088.0,1029369.0,25.68,1200.0,167.9,71.4,Black
+2016,Madhya Pradesh,Potato,Rabi,52256.0,1548045.0,29.62,1178.0,165.7,63.3,Black
+2017,Madhya Pradesh,Potato,Rabi,80932.0,1902688.0,23.51,1031.0,176.5,62.9,Black
+2018,Madhya Pradesh,Potato,Rabi,71636.0,1673092.0,23.36,921.0,163.5,58.3,Black
+2019,Madhya Pradesh,Potato,Rabi,84472.0,2326814.0,27.55,1187.0,167.9,90.6,Black
+2020,Madhya Pradesh,Potato,Rabi,67221.0,1968630.0,29.29,805.0,183.0,63.6,Black
+2021,Madhya Pradesh,Potato,Rabi,90743.0,2233863.0,24.62,751.0,174.7,56.5,Black
+2022,Madhya Pradesh,Potato,Rabi,59021.0,1414979.0,23.97,967.0,195.9,68.6,Black
+2023,Madhya Pradesh,Potato,Rabi,74505.0,2604731.0,34.96,1095.0,199.9,65.1,Black
+2024,Madhya Pradesh,Potato,Rabi,104456.0,2799357.0,26.8,1164.0,215.7,49.8,Black
+2015,Madhya Pradesh,Wheat,Rabi,45572.0,191881.0,4.21,1105.0,153.2,78.9,Black
+2016,Madhya Pradesh,Wheat,Rabi,45785.0,202465.0,4.42,825.0,112.0,33.9,Black
+2017,Madhya Pradesh,Wheat,Rabi,131815.0,430457.0,3.27,1325.0,122.4,45.0,Black
+2018,Madhya Pradesh,Wheat,Rabi,64829.0,253101.0,3.9,913.0,163.3,78.3,Black
+2019,Madhya Pradesh,Wheat,Rabi,132157.0,436632.0,3.3,812.0,120.0,82.4,Black
+2020,Madhya Pradesh,Wheat,Rabi,55080.0,242711.0,4.41,875.0,117.4,50.9,Black
+2021,Madhya Pradesh,Wheat,Rabi,93390.0,441614.0,4.73,752.0,167.2,53.2,Black
+2022,Madhya Pradesh,Wheat,Rabi,58420.0,282523.0,4.84,1205.0,150.0,55.6,Black
+2023,Madhya Pradesh,Wheat,Rabi,80471.0,335674.0,4.17,1326.0,112.2,65.8,Black
+2024,Madhya Pradesh,Wheat,Rabi,103059.0,428723.0,4.16,1085.0,139.5,50.4,Black
+2015,Madhya Pradesh,Rice,Kharif,64210.0,224450.0,3.5,1369.0,130.9,79.0,Black
+2016,Madhya Pradesh,Rice,Kharif,55205.0,194183.0,3.52,1247.0,105.4,62.2,Black
+2017,Madhya Pradesh,Rice,Kharif,79792.0,245625.0,3.08,722.0,127.1,68.3,Black
+2018,Madhya Pradesh,Rice,Kharif,81073.0,299212.0,3.69,1193.0,103.4,75.0,Black
+2019,Madhya Pradesh,Rice,Kharif,51641.0,174597.0,3.38,1158.0,140.0,71.7,Black
+2020,Madhya Pradesh,Rice,Kharif,88823.0,327057.0,3.68,874.0,96.2,53.8,Black
+2021,Madhya Pradesh,Rice,Kharif,74177.0,236643.0,3.19,755.0,112.9,84.2,Black
+2022,Madhya Pradesh,Rice,Kharif,103043.0,373501.0,3.62,1568.0,103.0,100.0,Black
+2023,Madhya Pradesh,Rice,Kharif,44642.0,147622.0,3.31,1117.0,111.9,71.7,Black
+2024,Madhya Pradesh,Rice,Kharif,54934.0,206374.0,3.76,1020.0,129.4,69.3,Black
+2015,Madhya Pradesh,Maize,Kharif,36481.0,135597.0,3.72,811.0,114.1,62.6,Black
+2016,Madhya Pradesh,Maize,Kharif,54015.0,180678.0,3.34,846.0,109.8,60.3,Black
+2017,Madhya Pradesh,Maize,Kharif,90064.0,272087.0,3.02,867.0,110.9,74.8,Black
+2018,Madhya Pradesh,Maize,Kharif,57865.0,222546.0,3.85,1228.0,120.7,71.1,Black
+2019,Madhya Pradesh,Maize,Kharif,71832.0,232675.0,3.24,887.0,119.6,43.6,Black
+2020,Madhya Pradesh,Maize,Kharif,56625.0,231501.0,4.09,1231.0,145.7,65.7,Black
+2021,Madhya Pradesh,Maize,Kharif,67289.0,265775.0,3.95,588.0,132.8,68.2,Black
+2022,Madhya Pradesh,Maize,Kharif,45321.0,175820.0,3.88,1150.0,145.8,38.0,Black
+2023,Madhya Pradesh,Maize,Kharif,101844.0,336446.0,3.3,1198.0,106.2,40.4,Black
+2024,Madhya Pradesh,Maize,Kharif,89586.0,286548.0,3.2,860.0,128.8,40.5,Black
+2015,Madhya Pradesh,Groundnut,Kharif,80216.0,135196.0,1.69,834.0,44.2,43.7,Black
+2016,Madhya Pradesh,Groundnut,Kharif,74320.0,146515.0,1.97,1328.0,41.5,61.3,Black
+2017,Madhya Pradesh,Groundnut,Kharif,65412.0,147870.0,2.26,940.0,45.1,85.9,Black
+2018,Madhya Pradesh,Groundnut,Kharif,120193.0,231599.0,1.93,1340.0,33.7,58.8,Black
+2019,Madhya Pradesh,Groundnut,Kharif,61861.0,130989.0,2.12,1134.0,33.5,55.1,Black
+2020,Madhya Pradesh,Groundnut,Kharif,59039.0,118605.0,2.01,1034.0,38.7,46.5,Black
+2021,Madhya Pradesh,Groundnut,Kharif,47298.0,106821.0,2.26,1172.0,43.5,86.7,Black
+2022,Madhya Pradesh,Groundnut,Kharif,35773.0,93497.0,2.61,1313.0,47.5,66.5,Black
+2023,Madhya Pradesh,Groundnut,Kharif,61274.0,100346.0,1.64,566.0,32.4,54.3,Black
+2024,Madhya Pradesh,Groundnut,Kharif,53793.0,96356.0,1.79,1034.0,48.0,41.6,Black
+2015,Madhya Pradesh,Mustard,Rabi,64224.0,110583.0,1.72,669.0,56.7,92.2,Black
+2016,Madhya Pradesh,Mustard,Rabi,91445.0,128536.0,1.41,1278.0,82.2,74.8,Black
+2017,Madhya Pradesh,Mustard,Rabi,70620.0,128831.0,1.82,1245.0,57.8,44.3,Black
+2018,Madhya Pradesh,Mustard,Rabi,51287.0,93745.0,1.83,826.0,64.7,69.6,Black
+2019,Madhya Pradesh,Mustard,Rabi,97448.0,165182.0,1.7,1138.0,78.4,40.7,Black
+2020,Madhya Pradesh,Mustard,Rabi,85739.0,152246.0,1.78,1099.0,79.8,64.2,Black
+2021,Madhya Pradesh,Mustard,Rabi,88605.0,119710.0,1.35,1304.0,63.7,71.2,Black
+2022,Madhya Pradesh,Mustard,Rabi,66398.0,98247.0,1.48,1482.0,65.8,58.9,Black
+2023,Madhya Pradesh,Mustard,Rabi,99469.0,161135.0,1.62,763.0,70.6,94.0,Black
+2024,Madhya Pradesh,Mustard,Rabi,82779.0,124815.0,1.51,1154.0,58.9,64.3,Black
+2015,Madhya Pradesh,Cotton,Kharif,58274.0,67318.0,1.16,835.0,113.9,59.1,Black
+2016,Madhya Pradesh,Cotton,Kharif,89290.0,104839.0,1.17,951.0,93.1,44.6,Black
+2017,Madhya Pradesh,Cotton,Kharif,93832.0,126300.0,1.35,496.0,103.7,57.8,Black
+2018,Madhya Pradesh,Cotton,Kharif,56045.0,82866.0,1.48,1252.0,117.3,88.5,Black
+2019,Madhya Pradesh,Cotton,Kharif,111930.0,122835.0,1.1,1315.0,114.2,84.3,Black
+2020,Madhya Pradesh,Cotton,Kharif,63500.0,72539.0,1.14,780.0,116.5,70.0,Black
+2021,Madhya Pradesh,Cotton,Kharif,152668.0,172556.0,1.13,1195.0,89.6,76.2,Black
+2022,Madhya Pradesh,Cotton,Kharif,126437.0,159915.0,1.26,1034.0,106.7,67.7,Black
+2023,Madhya Pradesh,Cotton,Kharif,91013.0,116613.0,1.28,1591.0,130.0,82.6,Black
+2024,Madhya Pradesh,Cotton,Kharif,69681.0,121071.0,1.74,1185.0,112.5,77.7,Black
+2015,Madhya Pradesh,Soybean,Kharif,34641.0,49081.0,1.42,933.0,58.9,76.7,Black
+2016,Madhya Pradesh,Soybean,Kharif,46988.0,73590.0,1.57,1086.0,54.0,80.5,Black
+2017,Madhya Pradesh,Soybean,Kharif,66315.0,104013.0,1.57,874.0,58.5,78.9,Black
+2018,Madhya Pradesh,Soybean,Kharif,58051.0,76561.0,1.32,968.0,53.0,79.0,Black
+2019,Madhya Pradesh,Soybean,Kharif,78420.0,139882.0,1.78,1125.0,58.1,66.2,Black
+2020,Madhya Pradesh,Soybean,Kharif,134789.0,198811.0,1.47,981.0,45.0,64.4,Black
+2021,Madhya Pradesh,Soybean,Kharif,61944.0,79002.0,1.28,946.0,42.7,59.9,Black
+2022,Madhya Pradesh,Soybean,Kharif,53609.0,83230.0,1.55,1178.0,44.6,35.7,Black
+2023,Madhya Pradesh,Soybean,Kharif,85637.0,131347.0,1.53,1251.0,57.0,79.1,Black
+2024,Madhya Pradesh,Soybean,Kharif,127734.0,171274.0,1.34,989.0,48.1,68.2,Black
+2015,Madhya Pradesh,Pulses,Rabi,33477.0,42837.0,1.28,809.0,34.5,72.6,Black
+2016,Madhya Pradesh,Pulses,Rabi,51773.0,68565.0,1.32,838.0,30.7,16.3,Black
+2017,Madhya Pradesh,Pulses,Rabi,107710.0,119904.0,1.11,912.0,27.9,68.0,Black
+2018,Madhya Pradesh,Pulses,Rabi,33008.0,39325.0,1.19,457.0,27.2,48.3,Black
+2019,Madhya Pradesh,Pulses,Rabi,36955.0,46984.0,1.27,714.0,34.5,59.9,Black
+2020,Madhya Pradesh,Pulses,Rabi,47254.0,58776.0,1.24,1083.0,27.9,37.3,Black
+2021,Madhya Pradesh,Pulses,Rabi,58520.0,58788.0,1.0,897.0,24.0,54.1,Black
+2022,Madhya Pradesh,Pulses,Rabi,64549.0,83453.0,1.29,977.0,35.3,60.0,Black
+2023,Madhya Pradesh,Pulses,Rabi,65263.0,80428.0,1.23,1135.0,29.4,53.0,Black
+2024,Madhya Pradesh,Pulses,Rabi,31883.0,37906.0,1.19,1162.0,33.0,56.0,Black
+2015,Maharashtra,Sugarcane,Annual,89048.0,5912312.0,66.39,872.0,203.3,33.9,Black
+2016,Maharashtra,Sugarcane,Annual,60329.0,4384643.0,72.68,738.0,224.6,75.8,Black
+2017,Maharashtra,Sugarcane,Annual,116237.0,8338960.0,71.74,935.0,248.8,56.1,Black
+2018,Maharashtra,Sugarcane,Annual,52235.0,4381571.0,83.88,1206.0,214.9,83.9,Black
+2019,Maharashtra,Sugarcane,Annual,70075.0,4671377.0,66.66,688.0,237.6,95.1,Black
+2020,Maharashtra,Sugarcane,Annual,75829.0,6433147.0,84.84,990.0,251.3,28.6,Black
+2021,Maharashtra,Sugarcane,Annual,87181.0,7080133.0,81.21,910.0,239.1,66.2,Black
+2022,Maharashtra,Sugarcane,Annual,75614.0,6130256.0,81.07,1236.0,212.4,87.1,Black
+2023,Maharashtra,Sugarcane,Annual,46189.0,3696867.0,80.04,971.0,239.2,47.4,Black
+2024,Maharashtra,Sugarcane,Annual,55467.0,6217073.0,112.09,1094.0,236.0,74.5,Black
+2015,Maharashtra,Potato,Rabi,36170.0,1177428.0,32.55,1198.0,215.1,90.3,Black
+2016,Maharashtra,Potato,Rabi,71110.0,1773871.0,24.95,1027.0,187.9,74.5,Black
+2017,Maharashtra,Potato,Rabi,48961.0,1176678.0,24.03,1025.0,181.5,99.7,Black
+2018,Maharashtra,Potato,Rabi,58153.0,1917058.0,32.97,1012.0,180.4,58.3,Black
+2019,Maharashtra,Potato,Rabi,47423.0,1407296.0,29.68,918.0,204.3,82.6,Black
+2020,Maharashtra,Potato,Rabi,48439.0,1180036.0,24.36,991.0,178.1,77.7,Black
+2021,Maharashtra,Potato,Rabi,67425.0,2211724.0,32.8,1180.0,160.4,49.8,Black
+2022,Maharashtra,Potato,Rabi,68327.0,1826701.0,26.73,764.0,208.0,78.9,Black
+2023,Maharashtra,Potato,Rabi,61444.0,1616370.0,26.31,647.0,167.8,40.1,Black
+2024,Maharashtra,Potato,Rabi,94032.0,2592062.0,27.57,1516.0,152.2,30.9,Black
+2015,Maharashtra,Wheat,Rabi,48768.0,219668.0,4.5,1234.0,131.3,59.5,Black
+2016,Maharashtra,Wheat,Rabi,60155.0,260578.0,4.33,1138.0,139.9,76.0,Black
+2017,Maharashtra,Wheat,Rabi,103873.0,305264.0,2.94,944.0,151.8,65.3,Black
+2018,Maharashtra,Wheat,Rabi,60767.0,217388.0,3.58,1222.0,166.5,88.6,Black
+2019,Maharashtra,Wheat,Rabi,76420.0,322363.0,4.22,1270.0,158.9,69.8,Black
+2020,Maharashtra,Wheat,Rabi,60084.0,230670.0,3.84,941.0,129.2,47.8,Black
+2021,Maharashtra,Wheat,Rabi,67098.0,246367.0,3.67,1060.0,157.9,64.2,Black
+2022,Maharashtra,Wheat,Rabi,93184.0,399214.0,4.28,1270.0,154.9,75.7,Black
+2023,Maharashtra,Wheat,Rabi,60196.0,222047.0,3.69,1331.0,163.2,43.6,Black
+2024,Maharashtra,Wheat,Rabi,32788.0,126970.0,3.87,1412.0,155.6,73.1,Black
+2015,Maharashtra,Rice,Kharif,109188.0,396175.0,3.63,741.0,134.7,39.9,Black
+2016,Maharashtra,Rice,Kharif,171421.0,540411.0,3.15,1269.0,137.7,62.7,Black
+2017,Maharashtra,Rice,Kharif,68518.0,243030.0,3.55,924.0,109.8,63.9,Black
+2018,Maharashtra,Rice,Kharif,41930.0,142707.0,3.4,1164.0,140.9,65.7,Black
+2019,Maharashtra,Rice,Kharif,75917.0,248503.0,3.27,604.0,105.5,93.2,Black
+2020,Maharashtra,Rice,Kharif,68032.0,242116.0,3.56,669.0,125.5,63.0,Black
+2021,Maharashtra,Rice,Kharif,62613.0,256621.0,4.1,953.0,113.5,71.3,Black
+2022,Maharashtra,Rice,Kharif,51476.0,185110.0,3.6,666.0,125.8,59.0,Black
+2023,Maharashtra,Rice,Kharif,93349.0,351846.0,3.77,796.0,128.1,71.3,Black
+2024,Maharashtra,Rice,Kharif,89533.0,298689.0,3.34,1101.0,126.9,53.3,Black
+2015,Maharashtra,Maize,Kharif,32156.0,140288.0,4.36,1262.0,135.1,75.2,Black
+2016,Maharashtra,Maize,Kharif,84726.0,278868.0,3.29,704.0,146.8,34.3,Black
+2017,Maharashtra,Maize,Kharif,113563.0,456696.0,4.02,937.0,118.4,72.4,Black
+2018,Maharashtra,Maize,Kharif,62596.0,241503.0,3.86,793.0,106.7,67.0,Black
+2019,Maharashtra,Maize,Kharif,71603.0,221595.0,3.09,958.0,116.8,95.2,Black
+2020,Maharashtra,Maize,Kharif,57952.0,227269.0,3.92,702.0,120.1,80.3,Black
+2021,Maharashtra,Maize,Kharif,74819.0,293712.0,3.93,1196.0,112.2,63.7,Black
+2022,Maharashtra,Maize,Kharif,41338.0,138271.0,3.34,526.0,151.2,68.3,Black
+2023,Maharashtra,Maize,Kharif,72584.0,279245.0,3.85,666.0,125.8,100.0,Black
+2024,Maharashtra,Maize,Kharif,56177.0,204049.0,3.63,985.0,133.9,100.0,Black
+2015,Maharashtra,Groundnut,Kharif,115832.0,204784.0,1.77,1051.0,37.5,55.2,Black
+2016,Maharashtra,Groundnut,Kharif,57836.0,114929.0,1.99,1337.0,41.1,73.1,Black
+2017,Maharashtra,Groundnut,Kharif,114058.0,217928.0,1.91,1623.0,34.7,54.7,Black
+2018,Maharashtra,Groundnut,Kharif,54603.0,88213.0,1.62,1349.0,33.5,100.0,Black
+2019,Maharashtra,Groundnut,Kharif,92564.0,156618.0,1.69,1365.0,38.1,79.5,Black
+2020,Maharashtra,Groundnut,Kharif,85218.0,139789.0,1.64,1367.0,40.7,64.3,Black
+2021,Maharashtra,Groundnut,Kharif,46657.0,100775.0,2.16,809.0,32.8,56.7,Black
+2022,Maharashtra,Groundnut,Kharif,82014.0,131265.0,1.6,1215.0,42.9,52.4,Black
+2023,Maharashtra,Groundnut,Kharif,98266.0,204816.0,2.08,934.0,42.7,53.7,Black
+2024,Maharashtra,Groundnut,Kharif,62010.0,111491.0,1.8,1263.0,44.1,100.0,Black
+2015,Maharashtra,Mustard,Rabi,41293.0,66405.0,1.61,768.0,79.3,76.4,Black
+2016,Maharashtra,Mustard,Rabi,64736.0,112961.0,1.74,1298.0,69.3,62.7,Black
+2017,Maharashtra,Mustard,Rabi,60333.0,94521.0,1.57,677.0,68.1,89.1,Black
+2018,Maharashtra,Mustard,Rabi,63177.0,103952.0,1.65,663.0,63.0,95.0,Black
+2019,Maharashtra,Mustard,Rabi,75962.0,120170.0,1.58,838.0,81.4,38.4,Black
+2020,Maharashtra,Mustard,Rabi,37641.0,71405.0,1.9,902.0,83.3,65.9,Black
+2021,Maharashtra,Mustard,Rabi,39790.0,75540.0,1.9,1064.0,68.4,77.9,Black
+2022,Maharashtra,Mustard,Rabi,78262.0,134878.0,1.72,1087.0,70.3,99.5,Black
+2023,Maharashtra,Mustard,Rabi,79568.0,114125.0,1.43,1001.0,80.5,72.2,Black
+2024,Maharashtra,Mustard,Rabi,35143.0,53379.0,1.52,1079.0,70.3,36.5,Black
+2015,Maharashtra,Cotton,Kharif,106990.0,128471.0,1.2,725.0,103.1,67.5,Black
+2016,Maharashtra,Cotton,Kharif,89170.0,113400.0,1.27,1132.0,95.3,30.2,Black
+2017,Maharashtra,Cotton,Kharif,90358.0,92045.0,1.02,1493.0,98.9,76.0,Black
+2018,Maharashtra,Cotton,Kharif,64656.0,71413.0,1.1,1020.0,102.8,75.1,Black
+2019,Maharashtra,Cotton,Kharif,119436.0,145623.0,1.22,888.0,130.3,69.8,Black
+2020,Maharashtra,Cotton,Kharif,117386.0,121726.0,1.04,1107.0,109.6,89.3,Black
+2021,Maharashtra,Cotton,Kharif,176445.0,230681.0,1.31,979.0,130.3,41.2,Black
+2022,Maharashtra,Cotton,Kharif,87090.0,121839.0,1.4,803.0,98.0,62.0,Black
+2023,Maharashtra,Cotton,Kharif,130704.0,138009.0,1.06,693.0,93.6,49.0,Black
+2024,Maharashtra,Cotton,Kharif,91904.0,100852.0,1.1,805.0,102.3,60.8,Black
+2015,Maharashtra,Soybean,Kharif,80624.0,126202.0,1.57,1149.0,53.1,60.0,Black
+2016,Maharashtra,Soybean,Kharif,72484.0,122649.0,1.69,1167.0,45.5,66.5,Black
+2017,Maharashtra,Soybean,Kharif,110926.0,161508.0,1.46,785.0,43.6,73.0,Black
+2018,Maharashtra,Soybean,Kharif,52226.0,88210.0,1.69,1070.0,52.6,77.5,Black
+2019,Maharashtra,Soybean,Kharif,54083.0,96762.0,1.79,1228.0,42.8,90.0,Black
+2020,Maharashtra,Soybean,Kharif,56199.0,92372.0,1.64,1158.0,47.8,69.4,Black
+2021,Maharashtra,Soybean,Kharif,95095.0,139225.0,1.46,1175.0,56.8,58.3,Black
+2022,Maharashtra,Soybean,Kharif,101568.0,163818.0,1.61,888.0,40.6,92.8,Black
+2023,Maharashtra,Soybean,Kharif,70612.0,104162.0,1.48,881.0,46.6,51.4,Black
+2024,Maharashtra,Soybean,Kharif,69713.0,90821.0,1.3,1158.0,52.4,58.4,Black
+2015,Maharashtra,Pulses,Rabi,67553.0,66335.0,0.98,1225.0,29.3,88.4,Black
+2016,Maharashtra,Pulses,Rabi,49787.0,57727.0,1.16,842.0,27.4,78.6,Black
+2017,Maharashtra,Pulses,Rabi,77306.0,90225.0,1.17,876.0,31.3,62.4,Black
+2018,Maharashtra,Pulses,Rabi,31157.0,32080.0,1.03,1099.0,26.8,57.0,Black
+2019,Maharashtra,Pulses,Rabi,40027.0,52589.0,1.31,1076.0,28.4,63.8,Black
+2020,Maharashtra,Pulses,Rabi,37348.0,51547.0,1.38,1231.0,33.7,81.7,Black
+2021,Maharashtra,Pulses,Rabi,25496.0,33462.0,1.31,890.0,29.6,72.6,Black
+2022,Maharashtra,Pulses,Rabi,37354.0,47837.0,1.28,1273.0,35.4,48.7,Black
+2023,Maharashtra,Pulses,Rabi,43803.0,55518.0,1.27,982.0,31.4,71.8,Black
+2024,Maharashtra,Pulses,Rabi,61813.0,59361.0,0.96,764.0,25.3,97.8,Black
+2015,Rajasthan,Sugarcane,Annual,96984.0,6702239.0,69.11,413.0,176.2,97.1,Sandy
+2016,Rajasthan,Sugarcane,Annual,60908.0,4590503.0,75.37,396.0,239.1,58.3,Sandy
+2017,Rajasthan,Sugarcane,Annual,45379.0,3957048.0,87.2,284.0,261.8,76.2,Sandy
+2018,Rajasthan,Sugarcane,Annual,75197.0,4927024.0,65.52,331.0,257.7,64.1,Sandy
+2019,Rajasthan,Sugarcane,Annual,95378.0,7339924.0,76.96,366.0,221.4,70.4,Sandy
+2020,Rajasthan,Sugarcane,Annual,42981.0,3866984.0,89.97,200.0,203.4,67.9,Sandy
+2021,Rajasthan,Sugarcane,Annual,51391.0,4060801.0,79.02,495.0,188.6,59.5,Sandy
+2022,Rajasthan,Sugarcane,Annual,79994.0,6004501.0,75.06,422.0,208.9,57.4,Sandy
+2023,Rajasthan,Sugarcane,Annual,74211.0,5434905.0,73.24,443.0,224.1,93.1,Sandy
+2024,Rajasthan,Sugarcane,Annual,78928.0,6087712.0,77.13,558.0,252.2,63.9,Sandy
+2015,Rajasthan,Potato,Rabi,59806.0,1515384.0,25.34,413.0,181.3,80.4,Sandy
+2016,Rajasthan,Potato,Rabi,72360.0,1933280.0,26.72,476.0,159.7,47.6,Sandy
+2017,Rajasthan,Potato,Rabi,37277.0,1252862.0,33.61,430.0,158.9,90.8,Sandy
+2018,Rajasthan,Potato,Rabi,58894.0,1583136.0,26.88,515.0,154.0,59.3,Sandy
+2019,Rajasthan,Potato,Rabi,62620.0,1594533.0,25.46,294.0,180.7,70.3,Sandy
+2020,Rajasthan,Potato,Rabi,35156.0,1140773.0,32.45,460.0,168.7,63.3,Sandy
+2021,Rajasthan,Potato,Rabi,29316.0,1058360.0,36.1,547.0,149.3,75.6,Sandy
+2022,Rajasthan,Potato,Rabi,83186.0,1977594.0,23.77,298.0,156.8,66.6,Sandy
+2023,Rajasthan,Potato,Rabi,79841.0,1657364.0,20.76,321.0,207.1,57.7,Sandy
+2024,Rajasthan,Potato,Rabi,42920.0,1169474.0,27.25,313.0,212.0,43.7,Sandy
+2015,Rajasthan,Wheat,Rabi,49897.0,230810.0,4.63,257.0,167.4,72.5,Sandy
+2016,Rajasthan,Wheat,Rabi,73965.0,343028.0,4.64,485.0,129.7,65.3,Sandy
+2017,Rajasthan,Wheat,Rabi,40088.0,134615.0,3.36,395.0,131.3,42.0,Sandy
+2018,Rajasthan,Wheat,Rabi,39726.0,158337.0,3.99,324.0,120.0,41.6,Sandy
+2019,Rajasthan,Wheat,Rabi,51087.0,201061.0,3.94,395.0,123.0,70.8,Sandy
+2020,Rajasthan,Wheat,Rabi,90262.0,397627.0,4.41,365.0,119.8,47.3,Sandy
+2021,Rajasthan,Wheat,Rabi,79547.0,287501.0,3.61,421.0,136.7,43.1,Sandy
+2022,Rajasthan,Wheat,Rabi,98707.0,316410.0,3.21,200.0,116.0,76.3,Sandy
+2023,Rajasthan,Wheat,Rabi,65135.0,204211.0,3.14,296.0,167.8,53.5,Sandy
+2024,Rajasthan,Wheat,Rabi,44927.0,177339.0,3.95,522.0,130.1,37.6,Sandy
+2015,Rajasthan,Rice,Kharif,80118.0,264822.0,3.31,268.0,117.8,36.3,Sandy
+2016,Rajasthan,Rice,Kharif,80932.0,242536.0,3.0,333.0,113.1,89.3,Sandy
+2017,Rajasthan,Rice,Kharif,67461.0,306594.0,4.54,396.0,104.8,24.7,Sandy
+2018,Rajasthan,Rice,Kharif,69248.0,228533.0,3.3,414.0,125.4,69.0,Sandy
+2019,Rajasthan,Rice,Kharif,78845.0,280951.0,3.56,486.0,98.1,45.2,Sandy
+2020,Rajasthan,Rice,Kharif,71213.0,262135.0,3.68,451.0,117.7,79.2,Sandy
+2021,Rajasthan,Rice,Kharif,113452.0,325071.0,2.87,289.0,105.3,46.0,Sandy
+2022,Rajasthan,Rice,Kharif,83873.0,312064.0,3.72,490.0,141.5,72.1,Sandy
+2023,Rajasthan,Rice,Kharif,49461.0,172346.0,3.48,585.0,139.4,66.2,Sandy
+2024,Rajasthan,Rice,Kharif,30358.0,123224.0,4.06,463.0,122.2,49.9,Sandy
+2015,Rajasthan,Maize,Kharif,71800.0,281093.0,3.91,589.0,123.7,88.5,Sandy
+2016,Rajasthan,Maize,Kharif,107705.0,305954.0,2.84,444.0,111.0,51.9,Sandy
+2017,Rajasthan,Maize,Kharif,35933.0,172115.0,4.79,443.0,116.6,65.5,Sandy
+2018,Rajasthan,Maize,Kharif,43964.0,124397.0,2.83,365.0,138.8,53.7,Sandy
+2019,Rajasthan,Maize,Kharif,73473.0,239343.0,3.26,597.0,148.2,74.3,Sandy
+2020,Rajasthan,Maize,Kharif,87208.0,297116.0,3.41,423.0,145.6,47.1,Sandy
+2021,Rajasthan,Maize,Kharif,125002.0,396803.0,3.17,380.0,134.5,36.9,Sandy
+2022,Rajasthan,Maize,Kharif,69594.0,257094.0,3.69,476.0,140.2,53.0,Sandy
+2023,Rajasthan,Maize,Kharif,60426.0,225292.0,3.73,485.0,137.7,78.4,Sandy
+2024,Rajasthan,Maize,Kharif,42108.0,166284.0,3.95,487.0,125.1,58.6,Sandy
+2015,Rajasthan,Groundnut,Kharif,65934.0,111852.0,1.7,359.0,39.2,44.8,Sandy
+2016,Rajasthan,Groundnut,Kharif,49773.0,104891.0,2.11,585.0,37.0,70.1,Sandy
+2017,Rajasthan,Groundnut,Kharif,52293.0,92334.0,1.77,416.0,41.9,75.8,Sandy
+2018,Rajasthan,Groundnut,Kharif,116798.0,215216.0,1.84,564.0,44.2,53.3,Sandy
+2019,Rajasthan,Groundnut,Kharif,123602.0,212580.0,1.72,478.0,37.2,69.9,Sandy
+2020,Rajasthan,Groundnut,Kharif,64713.0,169232.0,2.62,611.0,46.5,59.3,Sandy
+2021,Rajasthan,Groundnut,Kharif,44455.0,94018.0,2.11,356.0,36.9,71.5,Sandy
+2022,Rajasthan,Groundnut,Kharif,73937.0,152421.0,2.06,527.0,43.6,68.1,Sandy
+2023,Rajasthan,Groundnut,Kharif,82872.0,163430.0,1.97,620.0,45.2,59.2,Sandy
+2024,Rajasthan,Groundnut,Kharif,66467.0,132951.0,2.0,472.0,36.3,40.6,Sandy
+2015,Rajasthan,Mustard,Rabi,114432.0,152078.0,1.33,350.0,69.5,53.4,Sandy
+2016,Rajasthan,Mustard,Rabi,75444.0,130199.0,1.73,431.0,66.8,43.0,Sandy
+2017,Rajasthan,Mustard,Rabi,96890.0,146597.0,1.51,516.0,69.4,52.0,Sandy
+2018,Rajasthan,Mustard,Rabi,81039.0,132137.0,1.63,697.0,73.6,52.5,Sandy
+2019,Rajasthan,Mustard,Rabi,82525.0,129251.0,1.57,460.0,56.6,64.4,Sandy
+2020,Rajasthan,Mustard,Rabi,49148.0,66097.0,1.34,342.0,78.3,62.0,Sandy
+2021,Rajasthan,Mustard,Rabi,79760.0,119174.0,1.49,430.0,66.7,81.0,Sandy
+2022,Rajasthan,Mustard,Rabi,59230.0,93600.0,1.58,495.0,75.3,75.3,Sandy
+2023,Rajasthan,Mustard,Rabi,51506.0,86168.0,1.67,547.0,69.3,75.6,Sandy
+2024,Rajasthan,Mustard,Rabi,114413.0,180822.0,1.58,478.0,58.0,53.3,Sandy
+2015,Rajasthan,Cotton,Kharif,145281.0,161595.0,1.11,470.0,100.3,50.2,Sandy
+2016,Rajasthan,Cotton,Kharif,125243.0,148876.0,1.19,439.0,99.0,61.0,Sandy
+2017,Rajasthan,Cotton,Kharif,99107.0,116646.0,1.18,432.0,108.2,43.1,Sandy
+2018,Rajasthan,Cotton,Kharif,138653.0,150633.0,1.09,200.0,101.0,57.9,Sandy
+2019,Rajasthan,Cotton,Kharif,95526.0,107774.0,1.13,575.0,131.4,66.4,Sandy
+2020,Rajasthan,Cotton,Kharif,96215.0,110381.0,1.15,565.0,93.6,50.3,Sandy
+2021,Rajasthan,Cotton,Kharif,78923.0,77042.0,0.98,400.0,123.5,100.0,Sandy
+2022,Rajasthan,Cotton,Kharif,94885.0,114650.0,1.21,364.0,109.7,74.9,Sandy
+2023,Rajasthan,Cotton,Kharif,122142.0,118541.0,0.97,512.0,124.8,72.9,Sandy
+2024,Rajasthan,Cotton,Kharif,58184.0,67970.0,1.17,514.0,126.9,51.0,Sandy
+2015,Rajasthan,Soybean,Kharif,46158.0,92169.0,2.0,410.0,56.1,21.5,Sandy
+2016,Rajasthan,Soybean,Kharif,50468.0,94068.0,1.86,615.0,55.0,75.1,Sandy
+2017,Rajasthan,Soybean,Kharif,105416.0,180268.0,1.71,378.0,44.0,50.4,Sandy
+2018,Rajasthan,Soybean,Kharif,85975.0,127807.0,1.49,577.0,42.3,52.3,Sandy
+2019,Rajasthan,Soybean,Kharif,71591.0,104841.0,1.46,377.0,41.4,47.0,Sandy
+2020,Rajasthan,Soybean,Kharif,65236.0,108889.0,1.67,534.0,40.3,83.2,Sandy
+2021,Rajasthan,Soybean,Kharif,68392.0,105451.0,1.54,426.0,57.5,83.3,Sandy
+2022,Rajasthan,Soybean,Kharif,63878.0,93177.0,1.46,489.0,45.1,46.0,Sandy
+2023,Rajasthan,Soybean,Kharif,55069.0,81860.0,1.49,606.0,55.5,46.8,Sandy
+2024,Rajasthan,Soybean,Kharif,56317.0,93424.0,1.66,434.0,57.4,61.2,Sandy
+2015,Rajasthan,Pulses,Rabi,36847.0,45733.0,1.24,407.0,33.9,31.9,Sandy
+2016,Rajasthan,Pulses,Rabi,33360.0,40468.0,1.21,674.0,27.2,33.8,Sandy
+2017,Rajasthan,Pulses,Rabi,65489.0,74903.0,1.14,614.0,33.6,49.9,Sandy
+2018,Rajasthan,Pulses,Rabi,60806.0,67174.0,1.1,387.0,30.4,89.1,Sandy
+2019,Rajasthan,Pulses,Rabi,27455.0,37362.0,1.36,501.0,29.6,41.1,Sandy
+2020,Rajasthan,Pulses,Rabi,46559.0,59534.0,1.28,299.0,34.7,70.5,Sandy
+2021,Rajasthan,Pulses,Rabi,81944.0,85743.0,1.05,335.0,30.1,74.1,Sandy
+2022,Rajasthan,Pulses,Rabi,61044.0,83163.0,1.36,518.0,33.1,51.6,Sandy
+2023,Rajasthan,Pulses,Rabi,89284.0,94174.0,1.05,393.0,24.5,71.1,Sandy
+2024,Rajasthan,Pulses,Rabi,64842.0,60448.0,0.93,362.0,32.4,66.4,Sandy
+2015,Gujarat,Sugarcane,Annual,51629.0,3482753.0,67.46,1192.0,187.4,71.9,Black
+2016,Gujarat,Sugarcane,Annual,39784.0,3337370.0,83.89,681.0,195.0,100.0,Black
+2017,Gujarat,Sugarcane,Annual,61976.0,5589605.0,90.19,904.0,181.7,46.9,Black
+2018,Gujarat,Sugarcane,Annual,56335.0,5250852.0,93.21,592.0,211.5,35.5,Black
+2019,Gujarat,Sugarcane,Annual,117765.0,7371053.0,62.59,810.0,236.5,29.2,Black
+2020,Gujarat,Sugarcane,Annual,78996.0,6739873.0,85.32,1148.0,206.8,60.4,Black
+2021,Gujarat,Sugarcane,Annual,59909.0,4795457.0,80.05,916.0,206.3,58.8,Black
+2022,Gujarat,Sugarcane,Annual,40715.0,3268946.0,80.29,806.0,246.2,62.6,Black
+2023,Gujarat,Sugarcane,Annual,62614.0,4935015.0,78.82,1009.0,258.3,73.6,Black
+2024,Gujarat,Sugarcane,Annual,50902.0,5002717.0,98.28,678.0,248.5,74.8,Black
+2015,Gujarat,Potato,Rabi,34798.0,1339000.0,38.48,526.0,158.5,72.5,Black
+2016,Gujarat,Potato,Rabi,45179.0,1231380.0,27.26,1116.0,204.5,81.3,Black
+2017,Gujarat,Potato,Rabi,57700.0,1723926.0,29.88,882.0,148.9,90.3,Black
+2018,Gujarat,Potato,Rabi,42405.0,1277149.0,30.12,862.0,145.3,69.1,Black
+2019,Gujarat,Potato,Rabi,51098.0,1315416.0,25.74,870.0,153.2,49.7,Black
+2020,Gujarat,Potato,Rabi,73603.0,1686566.0,22.91,609.0,199.2,64.5,Black
+2021,Gujarat,Potato,Rabi,52576.0,1402072.0,26.67,844.0,157.2,91.4,Black
+2022,Gujarat,Potato,Rabi,64357.0,1619589.0,25.17,669.0,208.3,31.9,Black
+2023,Gujarat,Potato,Rabi,79066.0,1868732.0,23.64,934.0,179.0,85.1,Black
+2024,Gujarat,Potato,Rabi,33886.0,1055690.0,31.15,681.0,191.5,85.1,Black
+2015,Gujarat,Wheat,Rabi,53537.0,192263.0,3.59,913.0,145.0,56.4,Black
+2016,Gujarat,Wheat,Rabi,101997.0,351962.0,3.45,814.0,118.7,61.7,Black
+2017,Gujarat,Wheat,Rabi,53993.0,176056.0,3.26,547.0,121.5,98.2,Black
+2018,Gujarat,Wheat,Rabi,30869.0,122917.0,3.98,677.0,113.5,60.7,Black
+2019,Gujarat,Wheat,Rabi,39079.0,141841.0,3.63,570.0,138.4,19.3,Black
+2020,Gujarat,Wheat,Rabi,57883.0,241937.0,4.18,663.0,120.6,95.5,Black
+2021,Gujarat,Wheat,Rabi,71500.0,249264.0,3.49,622.0,154.6,72.4,Black
+2022,Gujarat,Wheat,Rabi,62983.0,226863.0,3.6,455.0,136.6,88.1,Black
+2023,Gujarat,Wheat,Rabi,100964.0,386930.0,3.83,835.0,155.6,53.1,Black
+2024,Gujarat,Wheat,Rabi,22400.0,104049.0,4.65,715.0,127.3,84.7,Black
+2015,Gujarat,Rice,Kharif,78232.0,243783.0,3.12,638.0,114.0,65.0,Black
+2016,Gujarat,Rice,Kharif,101540.0,355984.0,3.51,1142.0,98.5,22.2,Black
+2017,Gujarat,Rice,Kharif,49054.0,173357.0,3.53,757.0,133.2,71.7,Black
+2018,Gujarat,Rice,Kharif,57629.0,201709.0,3.5,745.0,120.5,76.0,Black
+2019,Gujarat,Rice,Kharif,60547.0,192800.0,3.18,572.0,107.0,52.1,Black
+2020,Gujarat,Rice,Kharif,51967.0,178735.0,3.44,470.0,102.6,48.2,Black
+2021,Gujarat,Rice,Kharif,67724.0,218245.0,3.22,946.0,139.3,75.2,Black
+2022,Gujarat,Rice,Kharif,127919.0,351474.0,2.75,1094.0,123.2,92.5,Black
+2023,Gujarat,Rice,Kharif,118344.0,454621.0,3.84,858.0,110.5,67.7,Black
+2024,Gujarat,Rice,Kharif,63651.0,204423.0,3.21,755.0,139.8,28.3,Black
+2015,Gujarat,Maize,Kharif,83714.0,344627.0,4.12,735.0,129.4,54.9,Black
+2016,Gujarat,Maize,Kharif,53899.0,202467.0,3.76,582.0,154.6,72.3,Black
+2017,Gujarat,Maize,Kharif,96594.0,369904.0,3.83,713.0,121.4,66.6,Black
+2018,Gujarat,Maize,Kharif,65466.0,197596.0,3.02,557.0,146.9,80.2,Black
+2019,Gujarat,Maize,Kharif,65586.0,225944.0,3.45,666.0,154.4,71.3,Black
+2020,Gujarat,Maize,Kharif,62563.0,234463.0,3.75,681.0,138.2,25.6,Black
+2021,Gujarat,Maize,Kharif,138922.0,561495.0,4.04,834.0,118.5,62.5,Black
+2022,Gujarat,Maize,Kharif,67623.0,265795.0,3.93,458.0,138.0,44.5,Black
+2023,Gujarat,Maize,Kharif,42798.0,190474.0,4.45,914.0,154.4,37.8,Black
+2024,Gujarat,Maize,Kharif,76751.0,271815.0,3.54,661.0,116.6,100.0,Black
+2015,Gujarat,Groundnut,Kharif,45052.0,93502.0,2.08,839.0,33.8,78.0,Black
+2016,Gujarat,Groundnut,Kharif,48500.0,92625.0,1.91,697.0,45.6,35.7,Black
+2017,Gujarat,Groundnut,Kharif,63498.0,153746.0,2.42,784.0,37.7,45.6,Black
+2018,Gujarat,Groundnut,Kharif,61390.0,109851.0,1.79,532.0,44.3,66.2,Black
+2019,Gujarat,Groundnut,Kharif,66900.0,126485.0,1.89,560.0,39.4,64.1,Black
+2020,Gujarat,Groundnut,Kharif,59779.0,113005.0,1.89,621.0,35.0,63.5,Black
+2021,Gujarat,Groundnut,Kharif,55061.0,128189.0,2.33,650.0,40.3,64.0,Black
+2022,Gujarat,Groundnut,Kharif,76821.0,125263.0,1.63,1018.0,36.8,78.4,Black
+2023,Gujarat,Groundnut,Kharif,38620.0,70541.0,1.83,719.0,35.9,87.2,Black
+2024,Gujarat,Groundnut,Kharif,64069.0,132950.0,2.08,819.0,45.6,85.8,Black
+2015,Gujarat,Mustard,Rabi,41526.0,72797.0,1.75,483.0,75.1,46.9,Black
+2016,Gujarat,Mustard,Rabi,37402.0,65271.0,1.75,782.0,64.9,61.6,Black
+2017,Gujarat,Mustard,Rabi,80700.0,107872.0,1.34,740.0,58.5,74.5,Black
+2018,Gujarat,Mustard,Rabi,62545.0,104663.0,1.67,1108.0,57.4,57.4,Black
+2019,Gujarat,Mustard,Rabi,50228.0,88611.0,1.76,488.0,66.0,71.0,Black
+2020,Gujarat,Mustard,Rabi,109704.0,135409.0,1.23,743.0,76.3,66.8,Black
+2021,Gujarat,Mustard,Rabi,51700.0,72648.0,1.41,830.0,56.0,90.2,Black
+2022,Gujarat,Mustard,Rabi,57184.0,91523.0,1.6,606.0,77.6,40.8,Black
+2023,Gujarat,Mustard,Rabi,59106.0,99243.0,1.68,861.0,83.7,53.8,Black
+2024,Gujarat,Mustard,Rabi,65001.0,100663.0,1.55,642.0,60.5,71.9,Black
+2015,Gujarat,Cotton,Kharif,82057.0,97791.0,1.19,954.0,112.4,82.8,Black
+2016,Gujarat,Cotton,Kharif,53481.0,68427.0,1.28,748.0,95.2,100.0,Black
+2017,Gujarat,Cotton,Kharif,115453.0,125543.0,1.09,806.0,124.1,97.1,Black
+2018,Gujarat,Cotton,Kharif,71744.0,95712.0,1.33,623.0,117.8,69.6,Black
+2019,Gujarat,Cotton,Kharif,50491.0,56918.0,1.13,892.0,117.6,68.9,Black
+2020,Gujarat,Cotton,Kharif,45219.0,53964.0,1.19,831.0,116.3,66.1,Black
+2021,Gujarat,Cotton,Kharif,89710.0,99632.0,1.11,1068.0,120.1,72.7,Black
+2022,Gujarat,Cotton,Kharif,77160.0,89057.0,1.15,1080.0,107.1,51.8,Black
+2023,Gujarat,Cotton,Kharif,98835.0,105520.0,1.07,811.0,115.4,56.4,Black
+2024,Gujarat,Cotton,Kharif,100556.0,93154.0,0.93,795.0,118.8,38.2,Black
+2015,Gujarat,Soybean,Kharif,51401.0,93638.0,1.82,505.0,42.1,52.4,Black
+2016,Gujarat,Soybean,Kharif,61764.0,119704.0,1.94,891.0,53.5,48.5,Black
+2017,Gujarat,Soybean,Kharif,40954.0,70431.0,1.72,701.0,42.7,87.9,Black
+2018,Gujarat,Soybean,Kharif,43982.0,64293.0,1.46,767.0,44.3,79.6,Black
+2019,Gujarat,Soybean,Kharif,44855.0,70372.0,1.57,696.0,42.2,46.0,Black
+2020,Gujarat,Soybean,Kharif,62019.0,103044.0,1.66,724.0,45.5,83.7,Black
+2021,Gujarat,Soybean,Kharif,101924.0,141352.0,1.39,706.0,53.0,52.3,Black
+2022,Gujarat,Soybean,Kharif,42840.0,81350.0,1.9,920.0,43.5,97.3,Black
+2023,Gujarat,Soybean,Kharif,37426.0,49999.0,1.34,749.0,49.5,48.5,Black
+2024,Gujarat,Soybean,Kharif,33064.0,54820.0,1.66,543.0,58.4,84.0,Black
+2015,Gujarat,Pulses,Rabi,33616.0,41659.0,1.24,403.0,34.1,75.2,Black
+2016,Gujarat,Pulses,Rabi,38733.0,46575.0,1.2,245.0,34.4,67.5,Black
+2017,Gujarat,Pulses,Rabi,48889.0,53149.0,1.09,937.0,25.9,52.6,Black
+2018,Gujarat,Pulses,Rabi,45125.0,56502.0,1.25,1084.0,25.0,71.5,Black
+2019,Gujarat,Pulses,Rabi,42889.0,54376.0,1.27,898.0,28.1,76.6,Black
+2020,Gujarat,Pulses,Rabi,72038.0,79118.0,1.1,810.0,27.4,74.0,Black
+2021,Gujarat,Pulses,Rabi,39910.0,48551.0,1.22,200.0,25.6,76.6,Black
+2022,Gujarat,Pulses,Rabi,34528.0,43690.0,1.27,731.0,32.8,70.6,Black
+2023,Gujarat,Pulses,Rabi,59115.0,74727.0,1.26,946.0,32.7,48.8,Black
+2024,Gujarat,Pulses,Rabi,39369.0,35241.0,0.9,661.0,34.3,58.6,Black
+2015,Bihar,Sugarcane,Annual,45613.0,4015335.0,88.03,1245.0,218.1,59.7,Loamy
+2016,Bihar,Sugarcane,Annual,44838.0,3792157.0,84.57,1352.0,215.1,34.3,Loamy
+2017,Bihar,Sugarcane,Annual,50724.0,3838843.0,75.68,1455.0,183.6,69.3,Loamy
+2018,Bihar,Sugarcane,Annual,77813.0,6007242.0,77.2,1427.0,229.8,58.5,Loamy
+2019,Bihar,Sugarcane,Annual,39772.0,3308767.0,83.19,1554.0,206.3,78.4,Loamy
+2020,Bihar,Sugarcane,Annual,89027.0,7156444.0,80.39,1184.0,215.3,62.9,Loamy
+2021,Bihar,Sugarcane,Annual,45379.0,3712052.0,81.8,883.0,182.2,44.5,Loamy
+2022,Bihar,Sugarcane,Annual,33939.0,2576678.0,75.92,1229.0,229.3,57.4,Loamy
+2023,Bihar,Sugarcane,Annual,59805.0,4414701.0,73.82,1035.0,206.2,15.0,Loamy
+2024,Bihar,Sugarcane,Annual,38106.0,2701520.0,70.89,2019.0,236.0,45.1,Loamy
+2015,Bihar,Potato,Rabi,34956.0,903841.0,25.86,1220.0,159.1,98.1,Loamy
+2016,Bihar,Potato,Rabi,48232.0,1313231.0,27.23,1038.0,149.2,52.4,Loamy
+2017,Bihar,Potato,Rabi,65460.0,1502739.0,22.96,672.0,206.6,48.9,Loamy
+2018,Bihar,Potato,Rabi,43490.0,981222.0,22.56,1294.0,170.2,15.0,Loamy
+2019,Bihar,Potato,Rabi,74150.0,1700072.0,22.93,1058.0,173.9,92.4,Loamy
+2020,Bihar,Potato,Rabi,71677.0,1730460.0,24.14,1464.0,180.1,64.2,Loamy
+2021,Bihar,Potato,Rabi,82411.0,1937340.0,23.51,1182.0,175.6,68.1,Loamy
+2022,Bihar,Potato,Rabi,55598.0,1404444.0,25.26,917.0,159.4,72.7,Loamy
+2023,Bihar,Potato,Rabi,83774.0,2063088.0,24.63,1244.0,144.3,49.4,Loamy
+2024,Bihar,Potato,Rabi,25671.0,672778.0,26.21,1014.0,175.0,35.8,Loamy
+2015,Bihar,Wheat,Rabi,44180.0,160732.0,3.64,1370.0,129.3,100.0,Loamy
+2016,Bihar,Wheat,Rabi,33221.0,140326.0,4.22,1591.0,166.1,98.4,Loamy
+2017,Bihar,Wheat,Rabi,59561.0,205834.0,3.46,432.0,150.3,75.0,Loamy
+2018,Bihar,Wheat,Rabi,40216.0,155547.0,3.87,1283.0,165.5,71.9,Loamy
+2019,Bihar,Wheat,Rabi,44921.0,187783.0,4.18,918.0,138.8,94.1,Loamy
+2020,Bihar,Wheat,Rabi,87345.0,335786.0,3.84,1013.0,123.7,53.3,Loamy
+2021,Bihar,Wheat,Rabi,53558.0,186830.0,3.49,815.0,152.9,61.5,Loamy
+2022,Bihar,Wheat,Rabi,59877.0,211800.0,3.54,1532.0,144.4,69.8,Loamy
+2023,Bihar,Wheat,Rabi,57446.0,199573.0,3.47,1164.0,164.7,77.9,Loamy
+2024,Bihar,Wheat,Rabi,50303.0,188916.0,3.76,1524.0,140.0,79.3,Loamy
+2015,Bihar,Rice,Kharif,53876.0,172635.0,3.2,656.0,109.2,78.1,Loamy
+2016,Bihar,Rice,Kharif,55729.0,202923.0,3.64,1327.0,115.3,50.5,Loamy
+2017,Bihar,Rice,Kharif,75616.0,274557.0,3.63,1328.0,139.6,85.0,Loamy
+2018,Bihar,Rice,Kharif,96498.0,294967.0,3.06,1025.0,131.5,80.6,Loamy
+2019,Bihar,Rice,Kharif,64843.0,211090.0,3.26,1286.0,96.5,15.6,Loamy
+2020,Bihar,Rice,Kharif,72853.0,222060.0,3.05,1185.0,116.4,69.4,Loamy
+2021,Bihar,Rice,Kharif,34859.0,135655.0,3.89,1104.0,110.5,70.8,Loamy
+2022,Bihar,Rice,Kharif,54343.0,177577.0,3.27,1153.0,133.2,100.0,Loamy
+2023,Bihar,Rice,Kharif,106465.0,276500.0,2.6,1083.0,102.0,50.9,Loamy
+2024,Bihar,Rice,Kharif,61644.0,233373.0,3.79,1444.0,126.3,60.1,Loamy
+2015,Bihar,Maize,Kharif,46493.0,165059.0,3.55,1169.0,150.1,61.6,Loamy
+2016,Bihar,Maize,Kharif,56090.0,208033.0,3.71,1426.0,110.0,46.1,Loamy
+2017,Bihar,Maize,Kharif,69105.0,201591.0,2.92,1460.0,137.0,74.1,Loamy
+2018,Bihar,Maize,Kharif,76500.0,231872.0,3.03,1735.0,134.4,68.0,Loamy
+2019,Bihar,Maize,Kharif,47308.0,188605.0,3.99,904.0,139.4,68.2,Loamy
+2020,Bihar,Maize,Kharif,29651.0,150329.0,5.07,1290.0,135.0,86.7,Loamy
+2021,Bihar,Maize,Kharif,50652.0,190485.0,3.76,903.0,148.0,38.0,Loamy
+2022,Bihar,Maize,Kharif,15603.0,68036.0,4.36,1260.0,156.0,98.1,Loamy
+2023,Bihar,Maize,Kharif,60877.0,210280.0,3.45,1396.0,118.0,77.9,Loamy
+2024,Bihar,Maize,Kharif,16665.0,54151.0,3.25,808.0,130.3,65.6,Loamy
+2015,Bihar,Groundnut,Kharif,25804.0,49470.0,1.92,1568.0,36.6,70.6,Loamy
+2016,Bihar,Groundnut,Kharif,48525.0,97797.0,2.02,733.0,41.2,65.2,Loamy
+2017,Bihar,Groundnut,Kharif,42413.0,107539.0,2.54,1374.0,35.5,15.0,Loamy
+2018,Bihar,Groundnut,Kharif,28003.0,61127.0,2.18,1171.0,47.1,49.1,Loamy
+2019,Bihar,Groundnut,Kharif,35878.0,74799.0,2.08,1454.0,46.7,57.3,Loamy
+2020,Bihar,Groundnut,Kharif,67397.0,135136.0,2.01,1363.0,46.1,82.5,Loamy
+2021,Bihar,Groundnut,Kharif,42181.0,79774.0,1.89,801.0,39.8,54.1,Loamy
+2022,Bihar,Groundnut,Kharif,92133.0,172031.0,1.87,1180.0,42.1,58.0,Loamy
+2023,Bihar,Groundnut,Kharif,50301.0,100342.0,1.99,1188.0,34.5,22.6,Loamy
+2024,Bihar,Groundnut,Kharif,39093.0,97934.0,2.51,1156.0,35.0,40.2,Loamy
+2015,Bihar,Mustard,Rabi,83616.0,126371.0,1.51,998.0,83.5,54.5,Loamy
+2016,Bihar,Mustard,Rabi,47558.0,83298.0,1.75,1005.0,77.9,60.6,Loamy
+2017,Bihar,Mustard,Rabi,34677.0,64692.0,1.87,633.0,76.8,29.9,Loamy
+2018,Bihar,Mustard,Rabi,56008.0,78611.0,1.4,957.0,62.6,51.8,Loamy
+2019,Bihar,Mustard,Rabi,68426.0,85927.0,1.26,895.0,76.0,72.3,Loamy
+2020,Bihar,Mustard,Rabi,34105.0,55782.0,1.64,899.0,62.8,44.5,Loamy
+2021,Bihar,Mustard,Rabi,50354.0,80111.0,1.59,1460.0,64.9,76.4,Loamy
+2022,Bihar,Mustard,Rabi,45010.0,65884.0,1.46,1207.0,58.0,61.4,Loamy
+2023,Bihar,Mustard,Rabi,60840.0,124240.0,2.04,671.0,67.5,86.8,Loamy
+2024,Bihar,Mustard,Rabi,61216.0,82106.0,1.34,1007.0,81.6,61.0,Loamy
+2015,Bihar,Cotton,Kharif,66414.0,65773.0,0.99,1379.0,95.1,74.2,Loamy
+2016,Bihar,Cotton,Kharif,66074.0,71390.0,1.08,1226.0,96.3,59.0,Loamy
+2017,Bihar,Cotton,Kharif,55364.0,85986.0,1.55,1229.0,125.6,68.2,Loamy
+2018,Bihar,Cotton,Kharif,88213.0,89960.0,1.02,840.0,97.8,57.0,Loamy
+2019,Bihar,Cotton,Kharif,44119.0,59214.0,1.34,1374.0,115.1,45.2,Loamy
+2020,Bihar,Cotton,Kharif,50321.0,56559.0,1.12,1282.0,95.3,60.0,Loamy
+2021,Bihar,Cotton,Kharif,87678.0,110881.0,1.26,1095.0,116.6,93.7,Loamy
+2022,Bihar,Cotton,Kharif,56971.0,66937.0,1.17,1554.0,111.4,38.6,Loamy
+2023,Bihar,Cotton,Kharif,53903.0,56642.0,1.05,950.0,100.8,63.4,Loamy
+2024,Bihar,Cotton,Kharif,66161.0,85428.0,1.29,1577.0,107.2,57.0,Loamy
+2015,Bihar,Soybean,Kharif,64265.0,80051.0,1.25,1221.0,52.6,68.3,Loamy
+2016,Bihar,Soybean,Kharif,22002.0,45304.0,2.06,1572.0,46.4,47.7,Loamy
+2017,Bihar,Soybean,Kharif,55742.0,83821.0,1.5,1172.0,57.0,74.0,Loamy
+2018,Bihar,Soybean,Kharif,54340.0,90703.0,1.67,874.0,44.0,66.8,Loamy
+2019,Bihar,Soybean,Kharif,66951.0,87007.0,1.3,1185.0,55.3,82.5,Loamy
+2020,Bihar,Soybean,Kharif,59201.0,90917.0,1.54,1448.0,48.0,41.3,Loamy
+2021,Bihar,Soybean,Kharif,37663.0,50824.0,1.35,1537.0,56.6,70.8,Loamy
+2022,Bihar,Soybean,Kharif,42536.0,81398.0,1.91,1517.0,48.4,48.6,Loamy
+2023,Bihar,Soybean,Kharif,39108.0,76985.0,1.97,1361.0,45.5,53.0,Loamy
+2024,Bihar,Soybean,Kharif,38167.0,62947.0,1.65,699.0,41.1,47.8,Loamy
+2015,Bihar,Pulses,Rabi,44087.0,55283.0,1.25,1044.0,25.7,51.4,Loamy
+2016,Bihar,Pulses,Rabi,58065.0,68309.0,1.18,1767.0,28.3,71.4,Loamy
+2017,Bihar,Pulses,Rabi,68512.0,81925.0,1.2,1453.0,28.1,50.1,Loamy
+2018,Bihar,Pulses,Rabi,55505.0,65958.0,1.19,653.0,26.7,100.0,Loamy
+2019,Bihar,Pulses,Rabi,37977.0,45989.0,1.21,562.0,32.6,48.7,Loamy
+2020,Bihar,Pulses,Rabi,46136.0,51102.0,1.11,1388.0,24.6,56.2,Loamy
+2021,Bihar,Pulses,Rabi,53703.0,59582.0,1.11,1238.0,29.0,45.0,Loamy
+2022,Bihar,Pulses,Rabi,40533.0,46714.0,1.15,1302.0,33.1,39.6,Loamy
+2023,Bihar,Pulses,Rabi,39677.0,53586.0,1.35,378.0,30.7,53.8,Loamy
+2024,Bihar,Pulses,Rabi,46632.0,56935.0,1.22,1368.0,34.3,52.2,Loamy
